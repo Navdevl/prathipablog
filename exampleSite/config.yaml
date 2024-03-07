@@ -1,9 +1,9 @@
 baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 3
-title: Example Site
-copyright: Example Person
+paginate: 5
+title: Writings of Prathipa K
+copyright: Prathipa K
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -16,23 +16,23 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Writings of Prathipa K
         weight: 1
         params:
-            description: Example description
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
-        params:
-            description: 演示说明
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
-        params:
-            description: وصف تجريبي
+            description: Writings of Prathipa K
+    # zh-cn:
+    #     languageName: 中文
+    #     title: 演示站点
+    #     weight: 2
+    #     params:
+    #         description: 演示说明
+    # ar:
+    #     languageName: عربي
+    #     languagedirection: rtl
+    #     title: موقع تجريبي
+    #     weight: 3
+    #     params:
+    #         description: وصف تجريبي
 
 services:
     # Change it to your Disqus shortname before using
@@ -51,7 +51,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico
 
     footer:
         since: 2020
@@ -63,11 +63,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: An avid writer, whose words awaken the reader in every comman man, and has that Midas touch on the lives of people I meet.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: /img/profile.jpg
 
     article:
         math: false
@@ -178,7 +178,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: prathipa_k
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -194,7 +194,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: light
 
     imageProcessing:
         cover:
@@ -209,15 +209,15 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+        - identifier: email
+          name: Email
+          url: mailto:cathyprathipa@gmail.com
           params:
-              icon: brand-github
+              icon: brand-email
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/prathipa_k
           params:
               icon: brand-twitter
 
