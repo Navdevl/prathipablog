@@ -1,19 +1,25 @@
 {{ define "main" }}
-    {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-    {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
-    {{ $filtered := ($pages | intersect $notHidden) }}
-    {{ $pag := .Paginate ($filtered) }}
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
 
-    <section class="article-list">
-        {{ range $index, $element := $pag.Pages }}
-            {{ partial "article-list/default" . }}
-        {{ end }}
-    </section>
+{{ $pinned := where $notHidden "Params.pinned" "==" "yes" }}
+{{ $notPinned := where $notHidden "Params.pinned" "!=" "yes" }}
+{{ $combinedPages := union $pinned $notPinned }}
 
-    {{- partial "pagination.html" . -}}
-    {{- partial "footer/footer" . -}}
+
+{{ $filtered := ($pages | intersect $notHidden) }}
+{{ $pag := .Paginate ($filtered) }}
+
+<section class="article-list">
+    {{ range $index, $element := $combinedPages }}
+    {{ partial "article-list/default" . }}
+    {{ end }}
+</section>
+
+{{- partial "pagination.html" . -}}
+{{- partial "footer/footer" . -}}
 {{ end }}
 
 {{ define "right-sidebar" }}
-    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
 {{ end }}

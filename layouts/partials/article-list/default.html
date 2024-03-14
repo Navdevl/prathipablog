@@ -1,4 +1,12 @@
 {{ $image := partialCached "helper/image" (dict "Context" . "Type" "articleList") .RelPermalink "articleList" }}
+{{ if eq .Params.pinned "yes" }}
+<!-- Code to display pinned post -->
+<article class="pinned-post">
+    {{ partial "article/components/header" . }}
+</article>
+{{ else }}
+<!-- Code for normal post -->
 <article class="{{ if $image.exists }}has-image{{ end }}">
     {{ partial "article/components/header" . }}
 </article>
+{{ end }}
