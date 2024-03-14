@@ -221,6 +221,18 @@ menu:
           params:
               icon: brand-twitter
 
+        - identifier: linkedin
+          name: Linkedin
+          url: https://twitter.com/prathipa_k
+          params:
+              icon: brand-linkedin
+
+        - identifier: wordpress
+          name: Wordpress
+          url: https://twitter.com/prathipa_k
+          params:
+              icon: brand-wordpress
+
 related:
     includeNewer: true
     threshold: 60
