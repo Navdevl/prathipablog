@@ -10,6 +10,7 @@ tags = [
     "Book Review", 'Personal Development', "Happiness", "Self-Improvement"
 ]
 image = "cover.jpeg"
+pinned = "yes"
 +++
 
 > *"I felt like not writing about them was creating a false history, and honestly, when I first wrote about them I expected I'd lose readers. I expected that I'd scare people. I expected silence. I did not expect what I was given. What I got back in return for being honest about my struggle was an enormous wave of voices saying, "You aren't alone," and "We suspected you were crazy anyway. We're still here." "I'm proud of you." And louder than all of that were the whispers that became stronger every day from thousands and thousands of people creeping to the edge and quietly admitting, "Me too. I thought it was just me." I did not ride that wave alone. That's why I continue to talk about mental illness, even at the cost of scaring people off or having people judge me. I try to be honest about the shame I feel because with honesty comes empowerment. And also, understanding, I know that if I go out on a stage and have a panic attack, I can duck behind the podium and hide for a minute and no one is going to judge me. They already know I am crazy."*
