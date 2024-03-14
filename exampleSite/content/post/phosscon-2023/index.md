@@ -1,7 +1,7 @@
 +++
 author = "Prathipa"
 title = "PHOSSCON 2023: A Transformative Experience"
-date = "2024-02-01"
+date = "2023-11-25"
 description = "Fortunate to have participated in the 7th PHOSSCON alongside the esteemed 26th annual PHOCON in Chennai, Tamil Nadu, an ##value gathering of thought leaders, advocates, and decision-makers dedicated to addressing the comprehensive needs of those affected by childhood cancer."
 categories = [
     "Conference"
