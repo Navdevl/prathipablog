@@ -31,7 +31,7 @@ The CSR network building session provided a strategic blueprint, emphasizing the
 ## The Power of Storytelling in Fundraising
 In another compelling session, the power of storytelling in fundraising took center stage. Crafting narratives that resonate with donors, understanding potential mismatches, and maintaining consistent communication were emphasized as critical components in sustaining donor relationships, a lesson I plan to integrate into my engagements with CSR initiatives.
 
-## Application of Insights## 
+## Application of Insights
 
 Currently, as I embark on the journey of building networks and engaging with corporate social responsibility (CSR) initiatives at the hospital where I work, the insights gained from PHOSSCON 2023 are proving immensely beneficial. The event provided a comprehensive exploration of childhood cancer care, covering supportive and shared care, fundraising strategies, and perspectives from various NGOs.
 
