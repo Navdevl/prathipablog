@@ -223,15 +223,15 @@ menu:
 
         - identifier: linkedin
           name: Linkedin
-          url: https://twitter.com/prathipa_k
+          url: https://www.linkedin.com/in/prathipak/
           params:
               icon: brand-linkedin
 
-        - identifier: wordpress
-          name: Wordpress
-          url: https://twitter.com/prathipa_k
-          params:
-              icon: brand-wordpress
+        # - identifier: wordpress
+        #   name: Wordpress
+        #   url: https://twitter.com/prathipa_k
+        #   params:
+        #       icon: brand-wordpress
 
 related:
     includeNewer: true

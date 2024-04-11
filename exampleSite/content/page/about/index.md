@@ -14,8 +14,9 @@ menu:
         params:
             icon: user
 ---
+Heyoo, I am a versatile professional based in Chennai, Tamil Nadu, India, excelling as a Medical Social Worker, Bone Marrow Transplant Coordinator, and adept Content Writer. With a robust background in health and lifestyle writing, and a passion for literature and cinema, I bring a unique blend of skills to my roles.
 
-I am a highly motivated and empathetic individual, passionate about content writing and dedicated to personal growth and making a positive impact. With a strong writing background, I aim to inspire and empower individuals, particularly children in health settings. My goal is to bridge health disparities and drive policy-level changes. I am known for my friendly nature, self-motivation, and excellent team player skills.
+My journey is not only shaped by my impactful work in healthcare but also fueled by my love for day-to-day storytelling, evident through my  reading habits and movie-watching. I am a highly motivated and empathetic individual, passionate about content writing and dedicated to personal growth and making a positive impact. With a strong writing background, I aim to inspire and empower individuals, particularly children in health settings. My goal is to bridge health disparities and drive policy-level changes. I am known for my friendly nature, self-motivation, and excellent team player skills.
 
 I am dedicated to different roles in healthcare that make a difference, especially in palliative and hospice care, and working towards individuals with terminal illnesses, Parkinson's Disease, and Multiple Sclerosis, and children with special needs. I am skilled in writing, documentation, and research proposal writing, with a focus on improving lives and bringing positivity to any team I join. I also aspire to be someone who can bring about policy-level and administrative-level changes in the health sector.
 
