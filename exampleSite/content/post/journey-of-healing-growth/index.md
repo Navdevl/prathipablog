@@ -1,7 +1,7 @@
 +++
 author = "Prathipa"
 title = "A Flood of Memories in Bangalore'"
-date = "2025-05-05"
+date = "2024-05-04"
 description = "I'm in Bangalore this weekend to visit my newlywed Anna and Anni! Being back in this city brings back a flood of memories.."
 categories = [
     "Personal"
