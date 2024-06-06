@@ -9,7 +9,7 @@ categories = [
 tags = [
     'Personal Development', "Happiness", "Self-Improvement"
 ]
-image = "aniladum.jpg"
+image = "aniladum.jpeg"
 +++
 
 Hi there!
