@@ -11,7 +11,6 @@
 {{- $baseURL := "https://mosaicimg.com/use?url=" -}}
 {{- $pageURL := .Page.Permalink -}}
 {{- $ogImageURL := printf "%s%s" $baseURL $pageURL -}}
-<meta property="og:image" content="{{ $ogImageURL }}">
 
 
 <meta name="twitter:card" content="{{ default `summary_large_image` .Site.Params.opengraph.twitter.card }}">
