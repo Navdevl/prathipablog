@@ -4,10 +4,10 @@ title = "Book Review: Walk with the Weary: Life-Changing Lessons in Healthcare b
 date = "2024-08-07"
 description = "I've finally managed to overcome my writer's slump and procrastination and completed the reviews for one of my reads this year. One of my favourite books of the year is Walk with the Weary: Life-Changing Lessons in Healthcare by Dr M. R. Rajagopal. This book is a must-read for anyone in healthcare and allied fields. "
 categories = [
-    "Personal"
+    "Book"
 ]
 tags = [
-    'Personal Development', "Happiness", "Self-Improvement"
+    "Book Review", 'Personal Development', "Happiness", "Self-Improvement"
 ]
 image = "walk-with-weary.jpeg"
 +++
