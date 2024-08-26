@@ -1,16 +1,18 @@
-+++
-author = "Prathipa"
-title = "Movie Reflections: Rediscovering 'Good Will Hunting'"
-date = "2024-03-01"
-description = "After really a long time, I recently revisited a classic film, prompted by a friend who reminded me of 'Dead Poets Society', a personal favorite I had watched two years ago. As far as I can recall, this was the only movie I've ever written a review about."
-categories = [
-    "Movie"
-]
-tags = [
-    "Movie Review", "Classic Film", "Good Will Hunting", "Emotional Healing", "Mentorship"
-]
-image = "4.jpeg"
-+++
+---
+author: "Prathipa"
+title: "Movie Reflections: Rediscovering 'Good Will Hunting'"
+date: "2024-03-01"
+description: "After really a long time, I recently revisited a classic film, prompted by a friend who reminded me of 'Dead Poets Society', a personal favorite I had watched two years ago. As far as I can recall, this was the only movie I've ever written a review about."
+image: "4.jpeg"
+categories:
+    - "Movie"
+tags:
+    - "Movie Review"
+    - "Classic Film"
+    - "Good Will Hunting"
+    - "Emotional Healing"
+    - "Mentorship"
+---
 
 ## Reconnecting with Movie Time
 
