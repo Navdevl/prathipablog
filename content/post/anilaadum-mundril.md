@@ -55,11 +55,3 @@ Now, let me talk about my current workplace, where I’ve formed wonderful relat
 And well, I also have an incredible mentor, well-wisher and beyond, whom I never fail to mention in all of my gratitude posts. Though I’ve only known her for a year and a half, I can name countless instances where I’ve felt grateful for her support, and those would require a separate post. Thank you, Ma’am, for being the family I didn’t ask for!
 
 Both times I traveled to Bangalore during that week, I made sure to have a complete breakfast, a dosa, and coffee, because I knew there wouldn’t be anyone around to ask if I was okay or if I looked dull or sick. Sometimes, I feel annoyed when people constantly ask me to eat or check on how I’m doing. I usually get irritated when people force-feed me, but these past two days made me realize what it would be like if I had to be alone for a lifetime with no one to ask about me. I imagined that scenario, closed my eyes for a second, and felt grateful for all the people who have constantly forced me to eat: my mom, siblings, partner, close friends, colleagues, and mentors from school, college, and work. Thank you, everyone. Please don’t stop checking on me, even if I get mad at you. You are all a family I've chosen beyond blood relations, and I am grateful for it.
-
-{{\< css.inline >}}
-
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-
-{{\< /css.inline >}}
