@@ -9,7 +9,7 @@ categories = [
 tags = [
     "PHOSSCON", "Childhood Cancer", "CSR Initiatives"
 ]
-image = "cover.jpeg"
+image = "phosscon-cover.jpeg"
 +++
 
 ## Meeting Inspirational Figures
@@ -17,7 +17,7 @@ I was delighted to meet Ms. Poonam Bagai, the founder of my organization, CanKid
 
 Additionally, witnessing sessions by other impactful speakers from our organization was a highlight. Meeting everyone in person and having the opportunity to communicate was truly fulfilling. Sumita Kirti Nirbhay Singh Vishwajit Mitra Haresh Gupta
 
-![](mam.jpeg)
+![](phosscon-mam.jpeg)
 
 ## Day 1 Session Highlights
 Now, let me quickly provide a brief overview of the Day 1 session and share what specifically caught my interest. The sessions were enlightening, featuring discussions that ranged from the often-overlooked challenges faced by caregivers to the strategic nuances of building a robust CSR network.
