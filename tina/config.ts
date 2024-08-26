@@ -31,7 +31,7 @@ export default defineConfig({
       {
         name: "post",
         label: "Posts",
-        path: "content/post",
+        path: "exampleSite/content/post",
         fields: [
           {
             type: "string",
@@ -56,31 +56,19 @@ export default defineConfig({
             type: "rich-text",
             name: "description",
             label: "Description",
-            required: true,
+            isBody: true,
           },
           {
             type: "string",
             name: "image",
             label: "Image",
-            required: true,
+            isBody: true,
           },
           {
             type: "rich-text",
             name: "body",
             label: "Body",
             isBody: true,
-          },
-          {
-            type: "string",
-            label: 'Tags',
-            name: 'tags',
-            list: true,
-          },
-          {
-            type: "string",
-            label: 'Categories',
-            name: 'categories',
-            list: true,
           },
         ],
       },

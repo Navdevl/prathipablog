@@ -1,16 +1,16 @@
-+++
-author = "Prathipa"
-title = "Reflecting on a Year of Professional Growth and Resilience"
-date = "2024-01-12"
-description = "Celebrating my one-year work anniversary today! This milestone holds great significance for me, marking a noteworthy chapter in my career journey."
-categories = [
-    "Career"
-]
-tags = [
-    "Work Anniversary", "Professional Development", "Career Journey"
-]
-image = "reflection.jpg"
-+++
+---
+author: "Prathipa"
+title: "Reflecting on a Year of Professional Growth and Resilience"
+date: "2024-01-12"
+description: "Celebrating my one-year work anniversary today! This milestone holds great significance for me, marking a noteworthy chapter in my career journey."
+image: "reflection.jpg"
+categories:
+    - "Career"
+tags:
+    - "Work Anniversary"
+    - "Professional Development"
+    - "Career Journey"
+---
 
 ## Gratitude and Acknowledgment
 

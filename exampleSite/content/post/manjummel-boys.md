@@ -1,18 +1,16 @@
-+++
-author = "Prathipa"
-title = "Have you all watched Manjummel Boys?"
-date = "2024-03-01"
-description = "I gave into the hype, despite being off social media for a while and not knowing much about it. But let me tell you, it was worth it!"
-categories = [
-    "Movie"
-]
-tags = [
-    "malayalam",
-    "movie",
-    "hope"
-]
-image = "manjummel-boys.jpg"
-+++
+---
+author: "Prathipa"
+title: "Have you all watched Manjummel Boys?"
+date: "2024-03-01"
+description: "I gave into the hype, despite being off social media for a while and not knowing much about it. But let me tell you, it was worth it!"
+image: "manjummel-boys.jpg"
+categories:
+    - "Movie"
+tags:
+    - "malayalam"
+    - "movie"
+    - "hope"
+---
 
 ## Spontaneous Outing and Unforgettable Memories
 

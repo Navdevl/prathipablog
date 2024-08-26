@@ -1,16 +1,17 @@
-+++
-author = "Prathipa"
-title = "Embracing Discomfort and Finding Happiness: Lessons from 'The Courage to Be Disliked'"
-date = "2024-02-01"
-description = "As someone conscious about being disliked, especially by those I respect or look up to, this book, 'The Courage to Be Disliked' by Ichiro Kishimi and Fumitake Koga resonated with me on a personal level, addressing the very anxieties that have, at times, clouded my sense of well-being. This book is based on the teachings of Alfred Adler, a renowned Austrian psychotherapist."
-categories = [
-    "Book"
-]
-tags = [
-    "Book Review", 'Personal Development', "Happiness", "Self-Improvement"
-]
-image = "courage.jpeg"
-+++
+---
+author: "Prathipa"
+title: "Embracing Discomfort and Finding Happiness: Lessons from 'The Courage to Be Disliked'"
+date: "2024-02-01"
+description: "As someone conscious about being disliked, especially by those I respect or look up to, this book, 'The Courage to Be Disliked' by Ichiro Kishimi and Fumitake Koga resonated with me on a personal level, addressing the very anxieties that have, at times, clouded my sense of well-being. This book is based on the teachings of Alfred Adler, a renowned Austrian psychotherapist."
+image: "courage.jpeg"
+categories:
+    - "Book"
+tags:
+    - "Book Review"
+    - "Personal Development"
+    - "Happiness"
+    - "Self-Improvement"
+---
 
 ## Navigating Emotional Weight and Anxieties
 

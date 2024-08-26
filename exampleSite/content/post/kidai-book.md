@@ -1,16 +1,16 @@
-+++
-author = "Prathipa"
-title = "Exploring Tamil Literature: A Dive into 'Kidai'"
-date = "2024-02-29"
-description = "I've been immersed in non-fiction for quite a while now. However, I felt like changing things up and delving into some light and fun fiction reads for a change. Don't get me wrong, non-fiction still holds a special place in my heart."
-categories = [
-    "Book"
-]
-tags = [
-    "Fiction", "Tamil Literature", "Book Recommendations"
-]
-image = "kidai.jpeg"
-+++
+---
+author: "Prathipa"
+title: "Exploring Tamil Literature: A Dive into 'Kidai'"
+date: "2024-02-29"
+description: "I've been immersed in non-fiction for quite a while now. However, I felt like changing things up and delving into some light and fun fiction reads for a change. Don't get me wrong, non-fiction still holds a special place in my heart."
+image: "kidai.jpeg"
+categories:
+    - "Book"
+tags:
+    - "Fiction"
+    - "Tamil Literature"
+    - "Book Recommendations"
+---
 
 I've been immersed in non-fiction for quite a while now. However, I felt like changing things up and delving into some light and fun fiction reads for a change. Don't get me wrong, non-fiction still holds a special place in my heart. But there's something enjoyable about dreaming and fantasizing with fiction, isn’t it? So, I decided to switch things up and even changed the language for my last read, haha.
 

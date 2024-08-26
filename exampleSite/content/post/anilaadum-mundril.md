@@ -1,16 +1,17 @@
-+++
-author = "Prathipa"
-title = "Book Review of Anilaadum Mundril: Embracing Family and the Family Beyond Blood'"
-date = "2024-06-06"
-description = "In 'Anilaadum Mundril,' each chapter about different relationships might bring tears to readers who can relate, but it's the final chapter that will move anyone to tears."
-categories = [
-    "Personal"
-]
-tags = [
-    'Personal Development', "Happiness", "Self-Improvement"
-]
-image = "aniladum.jpeg"
-+++
+---
+author: "Prathipa"
+title: "Book Review of Anilaadum Mundril: Embracing Family and the Family Beyond Blood'"
+date: "2024-06-06"
+description: "In 'Anilaadum Mundril,' each chapter about different relationships might bring tears to readers who can relate, but it's the final chapter that will move anyone to tears."
+image: "aniladum.jpeg"
+categories:
+    - "Book"
+tags:
+    - "Book Review"
+    - 'Personal Development'
+    - "Happiness"
+    - "Self-Improvement"
+---
 
 Hi there!
 

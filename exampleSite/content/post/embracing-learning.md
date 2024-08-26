@@ -1,16 +1,17 @@
-+++
-author = "Prathipa"
-title = "Embracing Exploration and Learning: A Personal Journey"
-date = "2024-02-14"
-description = "I stress a lot about finding my niche, but now I am trying to let go of that pressure. While I remain ambitious about achieving my career goals, instead of fixating on a specific niche, I'm trying to engage in various areas, enjoying the process of building skills & knowledge, while I figure out exactly what I want to pursue in the long run."
-categories = [
-    "Personal Development"
-]
-tags = [
-    "Career Exploration", "Learning Journey", "Personal Growth", "Skill Building"
-]
-image = "certificate.jpeg"
-+++
+---
+author: "Prathipa"
+title: "Embracing Exploration and Learning: A Personal Journey"
+date: "2024-02-14"
+description: "I stress a lot about finding my niche, but now I am trying to let go of that pressure. While I remain ambitious about achieving my career goals, instead of fixating on a specific niche, I'm trying to engage in various areas, enjoying the process of building skills & knowledge, while I figure out exactly what I want to pursue in the long run."
+image: "certificate.jpeg"
+categories:
+    - "Personal Development"
+tags:
+    - "Career Exploration"
+    - "Learning Journey"
+    - "Personal Growth"
+    - "Skill Building"
+---
 
 ## Exploration through Learning: Discoveries on OpenWHO
 
