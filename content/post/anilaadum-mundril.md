@@ -1,16 +1,19 @@
 ---
-author: "Prathipa"
-title: "Book Review of Anilaadum Mundril: Embracing Family and the Family Beyond Blood'"
-date: "2024-06-06"
-description: "In 'Anilaadum Mundril,' each chapter about different relationships might bring tears to readers who can relate, but it's the final chapter that will move anyone to tears."
-image: "aniladum.jpeg"
-categories:
-    - "Book"
+title: 'Book Review of Anilaadum Mundril: Embracing Family and the Family Beyond Blood'
+author: Prathipa
+date: 2024-06-06T00:00:00.000Z
+description: >
+  In 'Anilaadum Mundril,' each chapter about different relationships might bring
+  tears to readers who can relate, but it's the final chapter that will move
+  anyone to tears.
+image: aniladum.jpeg
 tags:
-    - "Book Review"
-    - 'Personal Development'
-    - "Happiness"
-    - "Self-Improvement"
+  - Book Review
+  - Personal Development
+  - Happiness
+  - Self-Improvement
+categories:
+  - Book
 ---
 
 Hi there!
@@ -27,14 +30,13 @@ Here’s to those akka, thangachi, annan, thambi, and pangali relationships I've
 
 I'll begin with my very own family. As I mentioned, I’ve been traveling back and forth between Bangalore and Chennai this week. During that travel, I had an excruciating headache, and body ache and the painkiller didn’t help. To make matters worse, I’ve been experiencing random shivers at midnight for past few months, where I start murmuring until my mom hugs me to calm down as she lies next to me. You know, I fight with my family a lot, as we all do due to the differences of opinions and the misunderstandings. Everyone has disputes and resents each other at times because we’re not perfect and can’t always understand each other psychologically. During every fight, I yell at my family members and declare that I can manage alone, that I’m a 24-year-old adult who can handle herself. But guess what? I needed someone during that night of that travel. I almost startled the person sleeping opposite me with my shivering and yelling, lol. I cried myself to sleep in pain, but I wanted my someone to hold me, even though I claimed to be a grown 24-year-old woman.
 
-
 We can be independent and empowered and still need someone; that’s why the universe made humankind capable of love. It’s completely okay to need someone no matter how much you grow. I love you, Mom, for hugging me through my nightmares, sickness, and breakdowns. I love you for fighting with me because distance brings us closer together.
 
 Let’s talk about the love-hate relationship, yes, the sibling bond. For the first time in my life, I stopped talking to my brother for a week. It was an important fight for me, but eventually, we made up. I still resent him for that day, and I made sure to tell him to his face. But, I am also incredibly grateful for the bond we share. For instance, he gave me his MacBook for my love of writing and his Kindle for my love of reading. He might even get me an iPhone just because he cares about his youngest sibling (lol). Jokes aside, he's the person I can share things with first, knowing I won’t be judged and can make rational decisions. However, past few months have been hard, and everyone’s trying the best they can and at time he still makes me angry, but lol that okay I guess.  He’s not only been a brother but also a father figure, providing me with the education I wanted. He’s not lovey-dovey, but he hugged me when I was devastated and let me lie on his lap for the very first time in my entire 24 years of life while he patted me with warmth. That’s the love-hate relationship we have. Love you Navee!
 
 Now, onto the sister-sister story. One of us is all girly and loves shopping, while the other prefers wearing different types of black clothes ordered online. I can’t count how many times we’ve fought because I didn’t want to go shopping with her. We’re not the type of sisters who share every little secret and hide things from our mom; there wasn’t much to hide anyway. Most of the time, she’s the elder sibling to me, and sometimes, I’ve been the elder sibling to her. We’ve shared our sorrows during rough patches and cried together. We’re both sensitive, which we have in common, and we can fit into each other’s clothes, except for pants, because she’s six feet tall, and I’m the tiny one in the family. We often fall sick together, but she’ll bear the pain and end up pressing my head. She’s always been that kind of sister. You’re bolder than you look, sister! You might not realize it, but you’re the bold one! Love you jen-jen!
 
-And to you, my little nugget cousin. You came into my life unexpectedly, but you’re a gem. You might look rugged, but you have a kind heart and have gone through so much like us. You’re one of a kind. I love you, thambi, with all my heart. Make akka proud and get those Converse or Jordans, okay thambi? 
+And to you, my little nugget cousin. You came into my life unexpectedly, but you’re a gem. You might look rugged, but you have a kind heart and have gone through so much like us. You’re one of a kind. I love you, thambi, with all my heart. Make akka proud and get those Converse or Jordans, okay thambi?
 
 Now, let me talk about my pangalis—the friends I've made.
 
@@ -48,16 +50,8 @@ And then there’s this kid who came into my life when I felt lost. Hey, Rach. T
 
 And then there's my school teacher and her kids, who have become like family to me. I make sure to visit them every month since I finished school. I’ve given her such a hard time with my eating habits, haha, and I still do every time I visit. Recently, there was a period when I didn’t text or call her for a while, and she immediately knew something was off. She made sure to check up on me, how many people are fortunate enough to have relationships like that? I feel truly blessed. Thank you for everything, Ma’am!
 
-Now, let me talk about my current workplace, where I’ve formed wonderful relationships and found a beautiful family. As I have mentioned in many posts, I have amazing colleagues who take care of me like their own, even though I come from a non-medico background. The newly joined batch of physician assistants joined while I was on a month's leave, yet they bonded with me really well. Hearing them call me "akka akka" all the time fills me with warmth, and some even come to hug me every day. And the children who come for transplants or post-transplant check-ups, calling me "atthai" or "akka" with their sweet little voices - it's everything I could ask for! 
-
+Now, let me talk about my current workplace, where I’ve formed wonderful relationships and found a beautiful family. As I have mentioned in many posts, I have amazing colleagues who take care of me like their own, even though I come from a non-medico background. The newly joined batch of physician assistants joined while I was on a month's leave, yet they bonded with me really well. Hearing them call me "akka akka" all the time fills me with warmth, and some even come to hug me every day. And the children who come for transplants or post-transplant check-ups, calling me "atthai" or "akka" with their sweet little voices - it's everything I could ask for!
 
 And well, I also have an incredible mentor, well-wisher and beyond, whom I never fail to mention in all of my gratitude posts. Though I’ve only known her for a year and a half, I can name countless instances where I’ve felt grateful for her support, and those would require a separate post. Thank you, Ma’am, for being the family I didn’t ask for!
 
 Both times I traveled to Bangalore during that week, I made sure to have a complete breakfast, a dosa, and coffee, because I knew there wouldn’t be anyone around to ask if I was okay or if I looked dull or sick. Sometimes, I feel annoyed when people constantly ask me to eat or check on how I’m doing. I usually get irritated when people force-feed me, but these past two days made me realize what it would be like if I had to be alone for a lifetime with no one to ask about me. I imagined that scenario, closed my eyes for a second, and felt grateful for all the people who have constantly forced me to eat: my mom, siblings, partner, close friends, colleagues, and mentors from school, college, and work. Thank you, everyone. Please don’t stop checking on me, even if I get mad at you. You are all a family I've chosen beyond blood relations, and I am grateful for it.
-
-
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-{{< /css.inline >}}
