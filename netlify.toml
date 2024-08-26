@@ -6,15 +6,15 @@ HUGO_VERSION = "0.117.0"
 HUGO_THEME = "repo"
 
 [context.production]
-command = "tinacms build && hugo -b ${URL} --gc -e production"
+command = "hugo -b ${URL} --gc -e production"
 [context.production.environment]
 HUGO_ENV = "production"
 
 [context.branch-deploy]
-command = "tinacms build && hugo -b ${DEPLOY_PRIME_URL} --gc -e production"
+command = "hugo -b ${DEPLOY_PRIME_URL} --gc -e production"
 
 [context.deploy-preview]
-command = "tinacms build && hugo -b ${DEPLOY_PRIME_URL} --gc -e production"
+command = "hugo -b ${DEPLOY_PRIME_URL} --gc -e production"
 
 [[plugins]]
 package = "netlify-plugin-hugo-cache-resources"
