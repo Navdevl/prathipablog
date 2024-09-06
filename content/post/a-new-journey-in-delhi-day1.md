@@ -3,7 +3,7 @@ title: >-
   A New Journey in Delhi: Setting Standards for Pediatric Psycho-Oncology
   Services
 author: Prathipa
-date: '2024-09-04T18:30:00.000Z'
+date: 2024-09-04T18:30:00.000Z
 description: >
   I’m excited to share that I’m in Delhi for the first time, and it’s been quite
   an experience so far. I’m here for the Indian Childhood Cancer Institute Task
@@ -16,7 +16,6 @@ tags:
 categories:
   - Personal
 ---
-
 
 ## A Flood of Memories in Bangalore
 
@@ -43,6 +42,8 @@ These points were significant throughout the session. For example, mapping essen
 
 I found the breakout sessions to be particularly engaging, as they allowed everyone to share their perspectives and collaborate on discussions. The first breakout session focused on evaluating and triaging referrals, considering the needs of children, parents, and siblings. We discussed our current resources, identified gaps, and explored ways to address them. Training, funding, and manpower emerged as critical needs from this discussion.
 The subsequent breakout sessions focused on the roles of carers, siblings, and family members in supporting the psychosocial well-being of the patient. In the session on mental health interventions, the team proposed various training programs and the development of supportive materials. One idea that particularly stood out to me, though not hearing it for the first time, but is not yet widely implemented in India. It involves using play sets and dolls to demonstrate medical procedures, such as how lines are inserted, to help children feel more at ease. Additionally, picture books about treatments like BMT can help prepare children and reduce their anxiety.
+
+![](</static/day1-delhi/WhatsApp Image 2024-09-06 at 10.54.10.jpeg>)
 
 ### Notable Observations and Simple Interventions
 
