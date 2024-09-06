@@ -8,7 +8,9 @@ description: >
   I’m excited to share that I’m in Delhi for the first time, and it’s been quite
   an experience so far. I’m here for the Indian Childhood Cancer Institute Task
   Force meeting on setting standards for Pediatric Psycho-Oncology Services.
-image: day1-delhi/WhatsApp Image 2024-09-06 at 10.54.11.jpeg
+image: >-
+  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/static/day1-delhi/WhatsApp
+  Image 2024-09-06 at 10.54.11.jpeg
 tags:
   - Oncology
   - Delhi
