@@ -60,7 +60,7 @@ Overall, key themes that emerged on Day 1 included the need for additional fundi
 The primary objective of this two-day meeting was to gather all these stakeholders to share their insights, identify gaps and needs, and collaboratively develop comprehensive standards and guidelines for pediatric psycho-oncology services, and it was well served!
 
 A big thank you to Poonam Ma’am for creating this opportunity for me to network and gain a deeper understanding of the system. I had the chance to speak with researchers and physicians, though I’m not tagging them here, and their insights were truly impressive.
-Rhea Duruvala Ma’am, your perspectives were outstanding, thank you for sharing them. And a special thanks to Stella Ma’am for being as wonderful as ever; it was great catching up with you.
+Rhea Duruvala Ma’am, your perspectives were outstanding, thank you for sharing them. Special thanks to Ms Lori, Ms Viviana, Ms Valerie who also throughout their sessions enlighted us. And a special thanks to Stella Ma’am for being as wonderful as ever; it was great catching up with you.
 
 ### Preparing for Day 2
 
