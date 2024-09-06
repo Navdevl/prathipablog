@@ -19,8 +19,6 @@ categories:
   - Personal
 ---
 
-## A New Journey in Delhi: Setting Standards for Pediatric Psycho-Oncology Services
-
 Hi everyone,
 
 I’m excited to share that I’m in Delhi for the first time, and it’s been quite an experience so far. I’m here for the Indian Childhood Cancer Institute Task Force meeting on setting standards for Pediatric Psycho-Oncology Services. Day 1 was truly incredible. I’m honored to be part of this task force meeting, which includes pediatric oncologists, psycho-oncologists, psychologists, neuropsychologists, founders, researchers, and parents of survivors - and then there’s me. It’s been a bit overwhelming, but also a fantastic opportunity to network and learn, even though I only recognized a few familiar faces.
