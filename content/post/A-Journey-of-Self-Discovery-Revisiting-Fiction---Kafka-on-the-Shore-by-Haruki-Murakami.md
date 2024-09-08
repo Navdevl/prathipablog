@@ -27,7 +27,7 @@ categories:
 
 # **A Journey of Self-Discovery: Revisiting Fiction**
 
-#### *Hi all!*
+*Hi all!*
 
 *Here I am back with a book review. I still have a few books from this year that I haven’t reviewed yet. Since I’m in Delhi for another three days, just enjoying some 'The Eagles' music alone in my room and diving into my next reads, I figured it’s the perfect time to write a review. This particular book felt like it needed to be reviewed now. People often think I’m not fun enough to read fiction, so here’s a fiction review for you. And of course, it turned out to be quite deep, well Haruki Murakami has that effect!*
 
