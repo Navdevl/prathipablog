@@ -15,7 +15,9 @@ description: >
   felt like it needed to be reviewed now. People often think I’m not fun enough
   to read fiction, so here’s a fiction review for you. And of course, it turned
   out to be quite deep, well Haruki Murakami has that effect!
-image: gratitude.jpg
+image: >-
+  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/Kafka on the
+  shore/WhatsApp Image 2024-09-08 at 3.24.04 PM.jpeg
 tags:
   - Book Review
   - Self Discovery
@@ -37,7 +39,7 @@ categories:
 
 ### Plot Overview: Kafka Tamura’s Journey
 
-#### In this book, the story follows a 15-year-old runaway named Kafka Tamura, who flees Tokyo to escape a family curse foretold by his clairvoyant father. This curse predicts that Kafka will kill his father and commit incest. The intertwined stories of Kafka and Nakata unveil profound truths about their identities and destinies, culminating in a resolution that invites multiple interpretations. 
+#### In this book, the story follows a 15-year-old runaway named Kafka Tamura, who flees Tokyo to escape a family curse foretold by his clairvoyant father. This curse predicts that Kafka will kill his father and commit incest. The intertwined stories of Kafka and Nakata unveil profound truths about their identities and destinies, culminating in a resolution that invites multiple interpretations.
 
 ### Personal Reflections: Resonance with My Own Journey
 
@@ -46,8 +48,6 @@ I found myself reflecting deeply on my own journey of self-discovery and the que
 ### Favorite Quotes: Insights from the Book
 
 > One of my favorite quotes from the book is: “And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.”
-
->
 
 ### Nakata’s Quest: A Parallel Journey
 
@@ -75,10 +75,6 @@ I found myself reflecting deeply on my own journey of self-discovery and the que
 
 #### Kafka’s struggle to escape his past and find his identity resonates with my own desire to prove my independence and overcome self-doubt. I find parallels between his fear of an inescapable storm and my own anxieties about facing the unknown. The novel’s blend of the surreal and the real captures the disorientation and mixed emotions that accompany the journey of forging a new path. I find its themes profoundly resonant with my own journey of self-discovery and survival.
 
-### Other favorite quotes from the book: 
+### Other favorite quotes from the book:
 
-> “In everybody’s life there’s a point of no return. And in a very few cases, a point where you can’t go forward anymore. And when we reach that point, all we can do is quietly accept the fact. That’s how we survive.”
-
-> “Taking crazy things seriously is a serious waste of time.” (and you know what life is crazy, and my mentor always says don’t take anything in life seriously, so yeah..)
-
-> “Everyone of us is losing something precious to us. Lost opportunities, lost possibilities, and feelings we can never get back again. That’s part of what it means to be alive.”
+> “In everybody’s life there’s a point of no return. And in a very few cases, a point where you can’t go forward anymore. And when we reach that point, all we can do is quietly accept the fact. That’s how we survive.”“Taking crazy things seriously is a serious waste of time.” (and you know what life is crazy, and my mentor always says don’t take anything in life seriously, so yeah..)“Everyone of us is losing something precious to us. Lost opportunities, lost possibilities, and feelings we can never get back again. That’s part of what it means to be alive.”
