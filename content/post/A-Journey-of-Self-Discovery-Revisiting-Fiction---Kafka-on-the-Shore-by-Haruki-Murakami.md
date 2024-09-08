@@ -17,7 +17,7 @@ description: >
   out to be quite deep, well Haruki Murakami has that effect!
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/Kafka on the
-  shore/WhatsApp Image 2024-09-08 at 3.24.04 PM.jpeg
+  shore/WhatsApp Image 2024-09-08 at 3.24.04 PM.jpg
 tags:
   - Book Review
   - Self Discovery
