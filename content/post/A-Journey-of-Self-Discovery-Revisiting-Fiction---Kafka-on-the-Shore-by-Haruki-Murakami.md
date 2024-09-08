@@ -22,7 +22,7 @@ tags:
   - Book Review
   - Self Discovery
 categories:
-  - Book Review
+  - Book
 ---
 
 # **A Journey of Self-Discovery: Revisiting Fiction**
