@@ -24,6 +24,8 @@ To give myself the space to truly settle in, I decided to put my freelancing pro
 
 One of the biggest adjustments has been finding the right balance between work and self-care. Back in Chennai, I was an early riser who enjoyed morning runs, but in Delhi, I found myself staying up late and waking up past noon on weekends. Realizing this wasn’t sustainable, I decided to change things up and spent today’s break doing something productive for myself. I joined a cycling tour with \*Delhi By Cycle\*, and it was exactly the kind of refreshment I needed! The 15 km ride through Lutyens’ Delhi, even with concerns about the air quality, was invigorating and helped me reconnect with the city. The tour guide, Mr. Utkarsh, shared some incredible insights into community initiatives that are positively impacting Delhi. It was uplifting to be part of something meaningful.
 
+![](</WhatsApp Image 2024-11-16 at 19.38.11.jpeg>)![](</WhatsApp Image 2024-11-16 at 19.39.34.jpeg>)
+
 Later in the day, I connected with my BMT kids via video call for their program. Though the call wasn’t perfect, it was a beautiful reminder of home, grounding me and bringing a sense of calm and connection.
 
 # I**nspiration from Tuesdays with Morrie by Mitch Albom**
@@ -33,6 +35,8 @@ In moments like these, I often think of a quote from Tuesdays with Morrie by Mit
 # **Gratitude for the Journey and Support**
 
 As I look back on this month, I’m deeply grateful for the kindness and support I’ve received along the way. Special thanks to Stella Ma’am for connecting me with such inspiring and beautiful individuals here in Delhi, and to Lalitha Munoth Ma’am for offering such a warm and peaceful welcome at your place. It’s moments like these that truly make this journey special.
+
+![](</WhatsApp Image 2024-11-16 at 19.38.49.jpeg>)
 
 I’m excited for what’s to come! I’m embracing each new experience with an open heart, and I can’t wait to see how this adventure unfolds. Stay tuned for my upcoming reviews of two Mitch Albom books -those will be coming soon!
 
