@@ -1,7 +1,7 @@
 ---
 title: >-
-  ### **Reflections on My First Month in Delhi: A Journey of Growth, Learning,
-  and New Beginnings**
+  Reflections on My First Month in Delhi: A Journey of Growth, Learning, and New
+  Beginnings
 author: Prathipa K
 date: 2024-11-15T18:30:00.000Z
 description: ''
@@ -26,7 +26,7 @@ Later in the day, I connected with my BMT kids via video call for their program.
 
 \### \*\*Inspiration from \*Tuesdays with Morrie\* by Mitch Albom\*\*
 
-In moments like these, I often think of a quote from \*Tuesdays with Morrie\* by Mitch Albom: \*“There are some mornings when I cry and cry and mourn for myself. Some mornings, I’m so angry and bitter. But it doesn’t last too long. Then I get up and say, I want to live…”\* While my struggles aren’t quite the same, this sentiment resonates deeply with me. Not every day is easy, and not every day is productive, but each day brings lessons and opportunities for growth. 
+In moments like these, I often think of a quote from \*Tuesdays with Morrie\* by Mitch Albom: \*“There are some mornings when I cry and cry and mourn for myself. Some mornings, I’m so angry and bitter. But it doesn’t last too long. Then I get up and say, I want to live…”\* While my struggles aren’t quite the same, this sentiment resonates deeply with me. Not every day is easy, and not every day is productive, but each day brings lessons and opportunities for growth.
 
 \### \*\*Gratitude for the Journey and Support\*\*
 
