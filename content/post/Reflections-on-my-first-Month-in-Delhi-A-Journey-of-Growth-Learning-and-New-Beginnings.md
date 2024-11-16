@@ -13,7 +13,8 @@ tags:
   - career growth
   - 'personal development '
 categories:
-  - ''
+  - 'Personal Development '
+  - Career
 ---
 
 It’s hard to believe it’s already been a month since I moved to Delhi! Yayy, you can all wish me Month Anniversary! Well, what a whirlwind it’s been, full of challenges, moments of growth, and different learning experiences. Adjusting to a new city, especially one where I don’t speak the local language, has tested me in ways I never imagined. The first few weeks were consumed by the chaos of work and accommodation searches, leaving little room for reflection or homesickness. But by the third week, the weight of loneliness and self-doubt crept in and cried myself to sleep. My routine became a monotonous cycle of work, meals, coffee, sleep, music, and video calls, a comforting but isolating rhythm.
