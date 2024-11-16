@@ -32,8 +32,6 @@ To give myself the space to truly settle in, I decided to put my freelancing pro
 
 One of the biggest adjustments has been finding the right balance between work and self-care. Back in Chennai, I was an early riser who enjoyed morning runs, but in Delhi, I found myself staying up late and waking up past noon on weekends. Realizing this wasn’t sustainable, I decided to change things up and spent today’s break doing something productive for myself. I joined a cycling tour with \*Delhi By Cycle\*, and it was exactly the kind of refreshment I needed! The 15 km ride through Lutyens’ Delhi, even with concerns about the air quality, was invigorating and helped me reconnect with the city. The tour guide, Mr. Utkarsh, shared some incredible insights into community initiatives that are positively impacting Delhi. It was uplifting to be part of something meaningful.
 
-https\://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image 2024-11-16 at 19.38.11.jpeg
-
 ![](</WhatsApp Image 2024-11-16 at 19.38.11.jpeg>)![](</WhatsApp Image 2024-11-16 at 19.39.34.jpeg>)
 
 Later in the day, I connected with my BMT kids via video call for their program. Though the call wasn’t perfect, it was a beautiful reminder of home, grounding me and bringing a sense of calm and connection.
