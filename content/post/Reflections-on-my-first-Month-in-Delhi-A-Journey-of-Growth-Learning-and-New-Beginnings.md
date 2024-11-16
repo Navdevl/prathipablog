@@ -1,7 +1,7 @@
 ---
 title: >-
-  Reflections on my first Month in Delhi: A Journey of Growth, Learning, and New
-  Beginnings
+  Reflections on my first month in Delhi: A journey of growth, learning, and new
+  beginnings
 author: Prathipa K
 date: 2024-11-15T18:30:00.000Z
 description: >
