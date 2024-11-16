@@ -4,7 +4,14 @@ title: >-
   Beginnings
 author: Prathipa K
 date: 2024-11-15T18:30:00.000Z
-description: ''
+description: >
+  Reflecting on my first month in Delhi, sharing the ups and downs of adjusting
+  to a new city and role. From the challenges of settling in and missing my
+  morning jogs in Chennai, to finding a sense of balance through a refreshing
+  cycling tour with Delhi By Cycle, it’s been an adventure of growth and
+  self-discovery. I explore lessons on adaptability, the importance of
+  community, and how I’ve embraced new experiences to build connections in this
+  vibrant city.
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
   2024-11-16 at 19.38.23.jpeg
@@ -24,6 +31,8 @@ To give myself the space to truly settle in, I decided to put my freelancing pro
 # **Finding Balance: A Key Lesson in Self-Care**
 
 One of the biggest adjustments has been finding the right balance between work and self-care. Back in Chennai, I was an early riser who enjoyed morning runs, but in Delhi, I found myself staying up late and waking up past noon on weekends. Realizing this wasn’t sustainable, I decided to change things up and spent today’s break doing something productive for myself. I joined a cycling tour with \*Delhi By Cycle\*, and it was exactly the kind of refreshment I needed! The 15 km ride through Lutyens’ Delhi, even with concerns about the air quality, was invigorating and helped me reconnect with the city. The tour guide, Mr. Utkarsh, shared some incredible insights into community initiatives that are positively impacting Delhi. It was uplifting to be part of something meaningful.
+
+https\://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image 2024-11-16 at 19.38.11.jpeg
 
 ![](</WhatsApp Image 2024-11-16 at 19.38.11.jpeg>)![](</WhatsApp Image 2024-11-16 at 19.39.34.jpeg>)
 
