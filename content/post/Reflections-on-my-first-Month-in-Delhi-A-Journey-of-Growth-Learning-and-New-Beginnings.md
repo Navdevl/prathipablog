@@ -5,7 +5,9 @@ title: >-
 author: Prathipa K
 date: 2024-11-15T18:30:00.000Z
 description: ''
-image: S
+image: >-
+  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
+  2024-11-16 at 19.38.23.jpeg
 tags:
   - life
   - career growth
