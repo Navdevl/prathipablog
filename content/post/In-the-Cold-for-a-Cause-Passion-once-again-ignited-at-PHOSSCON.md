@@ -56,7 +56,7 @@ The conference, for me, was wholesome, a perfect blend of learning and personal 
 
 ![](</WhatsApp Image 2024-11-27 at 04.02.18.jpeg>)
 
-# **ALSAC Team: Masters of fundraising innovation **
+# **ALSAC Team: Masters of fundraising innovation**
 
 * Speakers Sri Kankarla, Priya Tummalapalli, and Paola Cassana from ALSAC shared their unique fundraising approaches that support St. Jude Children’s Research Hospital, sustaining 87% of its budget.  
 * The session highlighted strategies like data-driven campaigns, grassroots events, and digital fundraising, alongside their success in supporting international projects like the Lifeline Foundation in Ghana.  
@@ -74,7 +74,7 @@ The conference, for me, was wholesome, a perfect blend of learning and personal 
 
 # **Few other session highlights from Day 1 & 2:**
 
-# **My Learnings from PHOSSCON 2024: Advocacy, Growth, and Proud Moments  **
+# **My Learnings from PHOSSCON 2024: Advocacy, Growth, and Proud Moments **
 
 **Day 1: Building bridges in patient-centric care
 Session 1: NGO presentations on Hematology and Oncology**
@@ -83,7 +83,7 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Discussions centered on improving care for sickle cell disease, thalassemia, and pediatric cancer through innovative initiatives.  
 * The passion displayed by these NGOs underscored the importance of collaborative efforts in creating sustainable care models.  
 
-**Session 2: Gaps and Challenges in patient-centric care  **
+Session 2: Gaps and Challenges in patient-centric care  
 
 * Tackled issues like late diagnosis, inadequate access to care, and stigma in conditions like sickle cell disease, thalassemia, and childhood cancer.  
 * Actionable solutions included expanding psychosocial support and improving treatment accessibility in rural areas.  
@@ -120,7 +120,7 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Stressed the importance of integrating palliative care from diagnosis to survivorship.  
 * This session reaffirmed my belief that palliative care is essential for ensuring dignity and quality of life, a cause I hold close to my heart.  
 
-**Proud Moment for CanKids KidsCan  **
+**Proud Moment for CanKids KidsCan **
 
 A defining moment was the recognition of Ms Poonam Bagai, Chairman of CanKids KidsCan, with the Lifetime Achievement Award at PHOCON 2024. Her unwavering dedication to children with cancer continues to inspire us all.  
 
