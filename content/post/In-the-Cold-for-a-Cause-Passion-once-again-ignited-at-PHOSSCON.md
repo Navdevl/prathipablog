@@ -98,7 +98,7 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Stressed on the role of family-based counseling and standardized guidelines.  
 * Strengthening family support systems alongside medical care resonated with my interest in palliative care.  
 
-\*\*Session 8: Financial protection for families \*\*
+# **Session 8: Financial protection for families**
 
 * Addressed the financial hardships families face due to treatment costs and suggested strategies like universal health coverage and employment support for caregivers.  
 * Financial security is vital for holistic patient care, and this session shed light on potential solutions to address indirect treatment costs.  
