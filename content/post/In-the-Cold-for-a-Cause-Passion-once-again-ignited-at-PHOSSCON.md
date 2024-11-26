@@ -121,7 +121,7 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Stressed the importance of integrating palliative care from diagnosis to survivorship.  
 * This session reaffirmed my belief that palliative care is essential for ensuring dignity and quality of life, a cause I hold close to my heart.  
 
-\*\*Proud Moment for CanKids KidsCan \*\*
+# **Proud Moment for CanKids KidsCan **
 
 A defining moment was the recognition of Ms Poonam Bagai, Chairman of CanKids KidsCan, with the Lifetime Achievement Award at PHOCON 2024. Her unwavering dedication to children with cancer continues to inspire us all.  
 
