@@ -3,13 +3,17 @@ title: 'In the Cold for a Cause: Passion once again ignited at PHOSSCON'
 author: Prathipa K
 date: 2024-11-26T18:30:00.000Z
 description: >
-  Reflecting on my first month in Delhi, sharing the ups and downs of adjusting
-  to a new city and role. From the challenges of settling in and missing my
-  morning jogs in Chennai, to finding a sense of balance through a refreshing
-  cycling tour with Delhi By Cycle, it’s been an adventure of growth and
-  self-discovery. I explore lessons on adaptability, the importance of
-  community, and how I’ve embraced new experiences to build connections in this
-  vibrant city.
+  A transformative journey at PHOSSCON 2024, where the cold winds of Jammu
+  couldn’t chill the warmth of passion and purpose. From eye-opening sessions on
+  Bone Marrow Transplants and thalassemia to powerful insights from legends like
+  Shobha Tuli ji, this conference lit a fire in me. I soaked in innovative
+  fundraising strategies and discovered the crucial role of compliance in
+  creating lasting impact. But it wasn’t just about learning, it was about
+  connection. I met incredible people, faced unexpected challenges, and left
+  with a renewed mission: to drive change in pediatric healthcare. Jammu may
+  have been cold, but it surely warmed my heart - and yes, as much as I’m a
+  dedicated public health advocate, the ‘punny’ writer in me couldn’t resist,
+  haha!
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
   2024-11-27 at 04.04.56.jpeg
