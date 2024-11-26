@@ -74,7 +74,7 @@ The conference, for me, was wholesome, a perfect blend of learning and personal 
 
 # **Few other session highlights from Day 1 & 2:**
 
-# \*\*My Learnings from PHOSSCON 2024: Advocacy, Growth, and Proud Moments \*\*
+# **My Learnings from PHOSSCON 2024: Advocacy, Growth, and Proud Moments**
 
 **Day 1: Building bridges in patient-centric care
 Session 1: NGO presentations on Hematology and Oncology**
