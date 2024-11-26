@@ -103,7 +103,7 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Addressed the financial hardships families face due to treatment costs and suggested strategies like universal health coverage and employment support for caregivers.  
 * Financial security is vital for holistic patient care, and this session shed light on potential solutions to address indirect treatment costs.  
 
-# **Session 9: Status of Bone Marrow Transplants in India **
+# **Session 9: Status of Bone Marrow Transplants in India**
 
 * Focused on accessibility barriers and funding challenges in BMT procedures.  
 * The session emphasized the need for awareness and financial aid for life-saving treatments, reinforcing the importance of advocacy in healthcare. 
