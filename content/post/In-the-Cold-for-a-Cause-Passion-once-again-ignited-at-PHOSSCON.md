@@ -78,12 +78,13 @@ The conference, for me, was wholesome, a perfect blend of learning and personal 
 
 **Day 1: Building bridges in patient-centric care
 Session 1: NGO presentations on Hematology and Oncology**
+=========================================================
 
 * Featured impactful presentations from organizations like St. Jude Child Care Center, Sickle Cell Saksham Rajasthan Foundation, Hope Child Cancer Care Foundation, DigiSwasthya, ICS Ulagam, Umeedein, Aarambh Palliative Care, KASH Foundation, etc,.
 * Discussions centered on improving care for sickle cell disease, thalassemia, and pediatric cancer through innovative initiatives.  
 * The passion displayed by these NGOs underscored the importance of collaborative efforts in creating sustainable care models.  
 
-**Session 2: Gaps and Challenges in patient-centric care **
+# **Session 2: Gaps and Challenges in patient-centric care **
 
 * Tackled issues like late diagnosis, inadequate access to care, and stigma in conditions like sickle cell disease, thalassemia, and childhood cancer.  
 * Actionable solutions included expanding psychosocial support and improving treatment accessibility in rural areas.  
