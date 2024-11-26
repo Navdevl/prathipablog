@@ -90,9 +90,9 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Actionable solutions included expanding psychosocial support and improving treatment accessibility in rural areas.  
 * This session inspired me to think about how holistic care models could be standardized across different healthcare settings.  
 
-**Day 2: A path toward holistic care and survivorship**
+# **Day 2: A path toward holistic care and survivorship**
 
-**Session 7: Supportive Care Services**
+# **Session 7: Supportive Care Services**
 
 * Covered essential aspects like nutrition, psychological support, and infection control in pediatric oncology.  
 * Stressed on the role of family-based counseling and standardized guidelines.  
