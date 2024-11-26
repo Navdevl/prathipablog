@@ -66,6 +66,8 @@ The conference, for me, was wholesome, a perfect blend of learning and personal 
 * He emphasized the importance of proper registrations for tax exemptions, transparent documentation, and diversifying fundraising efforts to ensure long-term financial stability. 
 * This session piqued my curiosity and inspired me to delve deeper into the technical aspects of NGO compliance. Understanding these intricacies will be vital as I work toward establishing my long-term vision of creating impactful healthcare initiatives. 
 
+![](</WhatsApp Image 2024-11-27 at 04.00.03.jpeg>)
+
 # **Few other session highlights from Day 1 & 2:**
 
 # \*\*My Learnings from PHOSSCON 2024: Advocacy, Growth, and Proud Moments  \*\*
@@ -134,3 +136,5 @@ PHOSSCON has yet again given me networking opportunity, left me inspired, motiva
 ***(And yes, as much as I'm a passionate Public health advocate, the 'punny' writer in me just couldn't resist—sorry, not sorry! Haha.)***
 
 \*Until next time! \*
+
+![](</WhatsApp Image 2024-11-27 at 04.09.11.jpeg>)
