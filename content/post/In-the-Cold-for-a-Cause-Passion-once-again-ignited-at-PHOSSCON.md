@@ -127,7 +127,7 @@ A defining moment was the recognition of Ms Poonam Bagai, Chairman of CanKids Ki
 
 ![](</WhatsApp Image 2024-11-27 at 04.02.02.jpeg>)
 
-# \*\*Few Takeaways \*\*
+# **Few Takeaways**
 
 * Advocacy is crucial: Leaders like Shobha ji and Poonam ma’am remind me of the power of persistence and dedication in making systemic changes.  
 * Collaboration matters: Learning from ALSAC's fundraising strategies and engaging with NGOs during compliance sessions reinforced the importance of working together.  
