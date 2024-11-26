@@ -109,13 +109,13 @@ Session 1: NGO presentations on Hematology and Oncology**
 * The session emphasized the need for awareness and financial aid for life-saving treatments, reinforcing the importance of advocacy in healthcare. 
 * In this session, we also had Ms. Sumati Mishra, a representative from Datri Stem Cell Registry, which whom we discussed donor availability for Bone Marrow Transplants (BMT). The discussion emphasized the need for increasing donor registrations and expanding the donor pool.  As we aim to create awareness outside, it's important to reflect on our own actions. PHOSSCON for the first time saw 100 registered attendees from 39 organizations, but have we ourselves registered as donors, if eligible? Why not take this opportunity to create awareness among our employees and conduct a donor registration drive within our organizations? By doing so, we can make a real impact on the availability of life-saving donors and contribute to a cause that could save countless lives.  Let’s start the change within. What do you think as an organization? If you’ve attended PHOSSCON and believe it’s possible to organize a donor drive within your organization, let me know your thoughts. 
 
-# **Session 11: Indian Childhood Cancer Initiative (ICCI) **
+# \*\*Session 11: Indian Childhood Cancer Initiative (ICCI) \*\*
 
 * Presented updates on task forces working on psychosocial care, survivorship, and access to care.  
 * Highlighted the need for survivorship clinics and national guidelines for long-term care.  
 * A call to action for integrated survivorship care and follow-up guidelines aligns closely with my vision for improving continuity of care.  
 
-# **Session 12: Continuity of care - Survivorship and Palliative Care  **
+# \*\*Session 12: Continuity of care - Survivorship and Palliative Care  \*\*
 
 * Focused on long-term challenges faced by childhood cancer survivors, including medical, psychological, and social reintegration.  
 * Stressed the importance of integrating palliative care from diagnosis to survivorship.  
