@@ -48,7 +48,7 @@ Here’s a quick rundown of what the two-day conference brought to the table:
 
 The conference, for me, was wholesome, a perfect blend of learning and personal satisfaction. Seeing critical topics like BMT, thalassemia, sickle cell disease, financial protection, and palliative care take center stage reminded me why I’m so passionate about this field.  Among the many inspiring figures and sessions, Shobha Tuli ji, the ALSAC team, and CA Dr. Subhajit Sahoo stood out as incredible sources of knowledge and inspiration.
 
-# \*\*Shobha Tuli ji: A visionary for Thalassemia advocacy  \*\*
+# **Shobha Tuli ji: A visionary for Thalassemia advocacy**
 
 * Representing Thalassemics India, Shobha ji’s expertise was evident as she discussed challenges and proposed solutions for Bone Marrow Transplants (BMT) under the Thalassemia Bal Sewa Yojana (TBSY).  
 * Her advocacy for expanding Ayushman Bharat coverage in TBSY reflected a vision for equitable and accessible care across India. 
@@ -56,7 +56,7 @@ The conference, for me, was wholesome, a perfect blend of learning and personal 
 
 ![](</WhatsApp Image 2024-11-27 at 04.02.18.jpeg>)
 
-# \*\*ALSAC Team: Masters of fundraising innovation  \*\*
+# **ALSAC Team: Masters of fundraising innovation **
 
 * Speakers Sri Kankarla, Priya Tummalapalli, and Paola Cassana from ALSAC shared their unique fundraising approaches that support St. Jude Children’s Research Hospital, sustaining 87% of its budget.  
 * The session highlighted strategies like data-driven campaigns, grassroots events, and digital fundraising, alongside their success in supporting international projects like the Lifeline Foundation in Ghana.  
@@ -64,7 +64,7 @@ The conference, for me, was wholesome, a perfect blend of learning and personal 
 
 ![](</WhatsApp Image 2024-11-27 at 03.59.04.jpeg>)
 
-# \*\*CA Dr Subhajit Sahoo: Demystifying CSR and financial compliance  \*\*
+# **CA Dr Subhajit Sahoo: Demystifying CSR and financial compliance **
 
 * Dr Sahoo’s session on CSR compliance, 12A & 80G registrations, and FCRA guidelines was highly engaging, drawing the attention of nearly every NGO present.  
 * He emphasized the importance of proper registrations for tax exemptions, transparent documentation, and diversifying fundraising efforts to ensure long-term financial stability. 
@@ -74,7 +74,7 @@ The conference, for me, was wholesome, a perfect blend of learning and personal 
 
 # **Few other session highlights from Day 1 & 2:**
 
-# \*\*My Learnings from PHOSSCON 2024: Advocacy, Growth, and Proud Moments  \*\*
+# **My Learnings from PHOSSCON 2024: Advocacy, Growth, and Proud Moments  **
 
 **Day 1: Building bridges in patient-centric care
 Session 1: NGO presentations on Hematology and Oncology**
@@ -83,7 +83,7 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Discussions centered on improving care for sickle cell disease, thalassemia, and pediatric cancer through innovative initiatives.  
 * The passion displayed by these NGOs underscored the importance of collaborative efforts in creating sustainable care models.  
 
-\*\*Session 2: Gaps and Challenges in patient-centric care  \*\*
+**Session 2: Gaps and Challenges in patient-centric care  **
 
 * Tackled issues like late diagnosis, inadequate access to care, and stigma in conditions like sickle cell disease, thalassemia, and childhood cancer.  
 * Actionable solutions included expanding psychosocial support and improving treatment accessibility in rural areas.  
@@ -97,36 +97,36 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Stressed on the role of family-based counseling and standardized guidelines.  
 * Strengthening family support systems alongside medical care resonated with my interest in palliative care.  
 
-\*\*Session 8: Financial protection for families  \*\*
+**Session 8: Financial protection for families **
 
 * Addressed the financial hardships families face due to treatment costs and suggested strategies like universal health coverage and employment support for caregivers.  
 * Financial security is vital for holistic patient care, and this session shed light on potential solutions to address indirect treatment costs.  
 
-\*\*Session 9: Status of Bone Marrow Transplants in India  \*\*
+**Session 9: Status of Bone Marrow Transplants in India  **
 
 * Focused on accessibility barriers and funding challenges in BMT procedures.  
 * The session emphasized the need for awareness and financial aid for life-saving treatments, reinforcing the importance of advocacy in healthcare. 
 * In this session, we also had Ms. Sumati Mishra, a representative from Datri Stem Cell Registry, which whom we discussed donor availability for Bone Marrow Transplants (BMT). The discussion emphasized the need for increasing donor registrations and expanding the donor pool.  As we aim to create awareness outside, it's important to reflect on our own actions. PHOSSCON for the first time saw 100 registered attendees from 39 organizations, but have we ourselves registered as donors, if eligible? Why not take this opportunity to create awareness among our employees and conduct a donor registration drive within our organizations? By doing so, we can make a real impact on the availability of life-saving donors and contribute to a cause that could save countless lives.  Let’s start the change within. What do you think as an organization? If you’ve attended PHOSSCON and believe it’s possible to organize a donor drive within your organization, let me know your thoughts. 
 
-\*\*Session 11: Indian Childhood Cancer Initiative (ICCI)  \*\*
+**Session 11: Indian Childhood Cancer Initiative (ICCI)  **
 
 * Presented updates on task forces working on psychosocial care, survivorship, and access to care.  
 * Highlighted the need for survivorship clinics and national guidelines for long-term care.  
 * A call to action for integrated survivorship care and follow-up guidelines aligns closely with my vision for improving continuity of care.  
 
-\*\*Session 12: Continuity of care - Survivorship and Palliative Care  \*\*
+**Session 12: Continuity of care - Survivorship and Palliative Care  **
 
 * Focused on long-term challenges faced by childhood cancer survivors, including medical, psychological, and social reintegration.  
 * Stressed the importance of integrating palliative care from diagnosis to survivorship.  
 * This session reaffirmed my belief that palliative care is essential for ensuring dignity and quality of life, a cause I hold close to my heart.  
 
-\*\*Proud Moment for CanKids KidsCan  \*\*
+**Proud Moment for CanKids KidsCan  **
 
 A defining moment was the recognition of Ms Poonam Bagai, Chairman of CanKids KidsCan, with the Lifetime Achievement Award at PHOCON 2024. Her unwavering dedication to children with cancer continues to inspire us all.  
 
 ![](</WhatsApp Image 2024-11-27 at 04.02.02.jpeg>)
 
-# \*\*Final Takeaways  \*\*
+# **Few Takeaways **
 
 * Advocacy is crucial: Leaders like Shobha ji and Poonam ma’am remind me of the power of persistence and dedication in making systemic changes.  
 * Collaboration matters: Learning from ALSAC's fundraising strategies and engaging with NGOs during compliance sessions reinforced the importance of working together.  
@@ -135,10 +135,10 @@ A defining moment was the recognition of Ms Poonam Bagai, Chairman of CanKids Ki
 
 PHOSSCON has yet again given me networking opportunity, left me inspired, motivated, and ready to take the next steps in my journey toward meaningful change in healthcare - in the field of Palliative care.
 
-\*\*\*Here's to more growth, advocacy, and opportunities to make an impact. Jammu, you were cold, but you warmed my heart with this experience \*\*\*
+***Here's to more growth, advocacy, and opportunities to make an impact. Jammu, you were cold, but you warmed my heart with this experience!***
 
 ***(And yes, as much as I'm a passionate Public health advocate, the 'punny' writer in me just couldn't resist—sorry, not sorry! Haha.)***
 
-\*Until next time! \*
+*Until next time, PHOSSCON!*
 
 ![](</WhatsApp Image 2024-11-27 at 04.09.11.jpeg>)
