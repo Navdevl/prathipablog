@@ -115,7 +115,7 @@ Session 1: NGO presentations on Hematology and Oncology**
 * Highlighted the need for survivorship clinics and national guidelines for long-term care.  
 * A call to action for integrated survivorship care and follow-up guidelines aligns closely with my vision for improving continuity of care.  
 
-# \*\*Session 12: Continuity of care - Survivorship and Palliative Care  \*\*
+# **Session 12: Continuity of care - Survivorship and Palliative Care**
 
 * Focused on long-term challenges faced by childhood cancer survivors, including medical, psychological, and social reintegration.  
 * Stressed the importance of integrating palliative care from diagnosis to survivorship.  
