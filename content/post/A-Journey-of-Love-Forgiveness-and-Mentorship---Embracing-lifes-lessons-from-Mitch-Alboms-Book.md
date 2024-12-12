@@ -9,7 +9,7 @@ description: >
   Mitch Albom's Book: Tuesdays with Morrie and Have a Little Faith
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
-  2024-11-27 at 04.04.56.jpeg
+  2024-12-12 at 20.37.15.jpeg
 tags:
   - Relationship
   - Family
@@ -41,6 +41,8 @@ As I read Tuesdays with Morrie and Have a Little Faith, I couldn’t help but fe
 
 Much like Mitch is grateful for his time with Morrie and his moments with the Reb, I will always be grateful for the moments I’ve shared with her. Whether it was sitting together in the OPD, asking to speak with her privately and walking her to her car, or showing up at her home unannounced and finding her making time for me, even on a busy Sunday morning - it all meant the world to me. These memories are countless, and I could go on and on. Her support has been invaluable, and I am forever thankful for her presence in my life. 
 
+![](</WhatsApp Image 2024-12-12 at 20.45.23.jpeg>)
+
 # Learning from Life's Struggles
 
 Finding Peace Amid Misunderstandings and Personal Growth
@@ -51,21 +53,13 @@ Even though I was feeling sick last weekend and going through an emotional rolle
 
 Before my transfer, I had so many plans, spending time with friends and family, going on one-day bike trips, but right before I left, I fell ill with an unknown fever. I had never been this sick all year, but it hit me just before I was about to leave. I ended up getting admitted to the hospital for a week. And that’s life, isn’t it?
 
-> “What if you had one day, perfectly healthy?” I asked myself.
-
-> “What would you do?”
-
-> “Twenty-four hours?” Morrie replied.
-
-> “Twenty-four hours.”
-
-> “Well, let’s see. I’d get up in the morning, do my exercises, have a lovely breakfast with sweet rolls and tea, go for a swim, and then invite my friends over for a nice lunch. I’d have them come one or two at a time so we could talk about their families, their struggles, and remind each other of how much we mean to one another. Then I’d take a walk in a garden with trees, enjoy the colors, watch the birds, and take in the nature I’ve missed for so long. In the evening, we’d all go to a restaurant for some great pasta—maybe some duck, I love duck—and then we’d dance the night away. I’d dance with all the wonderful partners until I was exhausted. Then, I’d go home and have a deep, peaceful sleep.”
-
-> It seemed so simple, so ordinary. I expected him to mention something extravagant, like flying to Italy or having lunch with the President. After months of being unable to move, how could he find perfection in such a simple day?
+> “What if you had one day, perfectly healthy?” I asked myself.“What would you do?”“Twenty-four hours?” Morrie replied.“Twenty-four hours.”“Well, let’s see. I’d get up in the morning, do my exercises, have a lovely breakfast with sweet rolls and tea, go for a swim, and then invite my friends over for a nice lunch. I’d have them come one or two at a time so we could talk about their families, their struggles, and remind each other of how much we mean to one another. Then I’d take a walk in a garden with trees, enjoy the colors, watch the birds, and take in the nature I’ve missed for so long. In the evening, we’d all go to a restaurant for some great pasta—maybe some duck, I love duck—and then we’d dance the night away. I’d dance with all the wonderful partners until I was exhausted. Then, I’d go home and have a deep, peaceful sleep.”It seemed so simple, so ordinary. I expected him to mention something extravagant, like flying to Italy or having lunch with the President. After months of being unable to move, how could he find perfection in such a simple day?
 
 But then it hit me, that was the point. The beauty and fulfillment Morrie found in the simplest moments, in connecting with others, and in appreciating the life he had left. It made me rethink everything.
 
 I even left messages to a few of them today, well not everyone was ready to accept the peace, but it is okay, I reminded myself to breathe. 
+
+![](</WhatsApp Image 2024-12-12 at 20.43.41.jpeg>)
 
 # The Healing Power of Forgiveness
 
@@ -80,7 +74,6 @@ As someone who constantly criticizes myself, this was a revelation. Even today, 
 # The Role of Relationships in Our Lives
 
 Why We Need Others to Thrive
-
 
 Mitch Albom’s writing has solidified his place as one of my favorite authors. Both Tuesdays with Morrie and Have a Little Faith are true stories that draw from Albom’s personal life. The authenticity of these narratives makes them even more poignant and relatable.
 
@@ -108,7 +101,6 @@ And Soumya Sir, though I’ve never seen you, didn’t know what you looked like
 
 # Quiet Connections, Lasting Impact
 
-
 Reflections on My Journey and the Importance of Being Present
 
 Another favorite moment was Morrie’s reflection on relationships:
@@ -118,7 +110,6 @@ Another favorite moment was Morrie’s reflection on relationships:
 This wisdom, coupled with his call to “invest in the human family,” reminded me of the importance of valuing connections over material pursuits. Sometimes, I get so frustrated that I want to run away and be alone. But, as Morrie teaches, even amidst conflict, we need relationships to survive and thrive.
 
 # A Future Filled with Love and Writing
-
 
 My Aspiration to Share My Story through Writing
 
@@ -136,14 +127,11 @@ I recently had a conversation with one of my former supervisors, and we talked a
 
 That really struck a chord with me. It made me realize the connections I had built there, even in my quiet way. I truly felt that during my farewell. People from the hospital, even from two different ones I had worked with, and those from my organization all came together to send me off with such warmth and kindness. It was a moment I’ll always hold close to my heart. 
 
-> "As long as we can love each other, and remember the feeling of love we had, we can die without ever really going away. All the love you created is still there. All the memories are still there. You live on in the hearts of everyone you have touched and nurtured while you were here."
-
-> "Death ends a life, not a relationship."
+> "As long as we can love each other, and remember the feeling of love we had, we can die without ever really going away. All the love you created is still there. All the memories are still there. You live on in the hearts of everyone you have touched and nurtured while you were here.""Death ends a life, not a relationship."
 
 As I finished reading this book during a challenging phase in my life, all these memories came flooding back, and it made me truly appreciate the beauty of human connection. It’s not always sunshine and rainbows, but we can always keep trying.
 
 # Closing Thoughts
-
 
 The Lasting Wisdom of Mitch Albom’s Works and Their Impact on My Life
 
@@ -152,6 +140,3 @@ Both books are masterpieces, and I feel fortunate to have read them at a time wh
 I’ve always written from personal experiences, and while I’ve faced criticism for sharing so much, I’ve also received an overwhelming amount of love over the past year. Hearing from juniors and random younger versions of myself about how my raw stories helped them has made it all worth it. After reading Mitch Albom, I’m even more certain of the kind of writer I want to be. So, who knows? Maybe you’ll see a book from me soon! Finishing the draft of my book is definitely on my 2025 bucket list! 
 
 If you've made it to the end, send me all your best wishes for my upcoming book! I’ll know if you've read the full review, haha!
-
-
-
