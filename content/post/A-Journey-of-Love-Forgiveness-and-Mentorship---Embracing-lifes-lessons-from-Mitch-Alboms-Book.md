@@ -91,6 +91,8 @@ Faith as an Act of Integrity and Love
 
 Apart from the long-distance relationship weighing on me already, work here, too, has its challenges. There’s already so much drama in the world, why carry it into our daily lives? Since we spend a significant portion of our time with colleagues, I’ve realized the value of striving for harmony. I may not embody all of Morrie’s or the Rabbi’s principles, but I’ve decided to live more in the present, appreciating those around me and spreading love wherever I can.
 
+![](</WhatsApp Image 2024-12-12 at 20.38.24.jpeg>)
+
 Yes, work hasn’t always been easy ever since I got my transfer here, but there have been moments and people who brought me comfort. Dr. Neelima and I faced a challenge together, and we both took responsibility for each other. I truly admired the way she handled it, it meant a lot to me.  
 
 I also can’t thank Kevin enough for his kindness since Day 1. I genuinely enjoy working with him and secretly hope to "borrow" a little from his network, haha!
@@ -136,6 +138,8 @@ As I finished reading this book during a challenging phase in my life, all these
 The Lasting Wisdom of Mitch Albom’s Works and Their Impact on My Life
 
 Both books are masterpieces, and I feel fortunate to have read them at a time when I needed their wisdom the most. Mitch Albom’s works through his personal life are a testament to the beauty of human connection, the importance of forgiveness, and the enduring impact of love.
+
+![](</WhatsApp Image 2024-12-12 at 20.41.37.jpeg>)
 
 I’ve always written from personal experiences, and while I’ve faced criticism for sharing so much, I’ve also received an overwhelming amount of love over the past year. Hearing from juniors and random younger versions of myself about how my raw stories helped them has made it all worth it. After reading Mitch Albom, I’m even more certain of the kind of writer I want to be. So, who knows? Maybe you’ll see a book from me soon! Finishing the draft of my book is definitely on my 2025 bucket list! 
 
