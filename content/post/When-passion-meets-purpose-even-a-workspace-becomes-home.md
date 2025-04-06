@@ -26,8 +26,7 @@ categories:
 ---
 
 Last weekend, my little soul sister from Chennai,  a colleague turned friend and family, and constant in my journey visited me in Delhi.  \
-\
-![](</WhatsApp Image 2025-04-06 at 15.02.38.jpeg>)
+
 
 The last time I left Chennai, it was bittersweet. I had spent most of my time between the BMT unit and her home. As I was leaving, she said, “You go, Prathipa… I’ll follow you in March.” And she kept her word.
 
