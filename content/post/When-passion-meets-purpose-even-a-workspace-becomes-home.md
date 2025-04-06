@@ -11,11 +11,11 @@ tags:
   - Relationship
   - Family
   - Life
-  - Mentorship
+  - Professional Growth
   - 'Personal Development '
 categories:
   - 'Personal Development '
-  - Book Review
+  - ''
 ---
 
 Last weekend, my little soul sister from Chennai,  a colleague turned friend and family, and constant in my journey visited me in Delhi.  \
