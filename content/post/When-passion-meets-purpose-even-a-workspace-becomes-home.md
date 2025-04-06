@@ -2,8 +2,15 @@
 title: 'When passion meets purpose, even a workspace becomes home!'
 author: Prathipa K
 date: 2025-04-05T18:30:00.000Z
-description: |
-  When passion meets purpose, even a workspace becomes home!
+description: >
+  Reflection from the heart...a glimpse into a soul-filling reunion with my
+  colleague-turned-sister and family who visited me in Delhi. Through memories
+  of our time together in the BMT unit and moments shared last weekend, I
+  explore how purpose-driven work, meaningful friendships, and quiet impact
+  continue to shape my journey. It’s about growth: personal and professional,
+  and the power of connection that endures across time and distance. A tribute
+  to the people, the passion, and the purpose with love that makes it all
+  worthwhile.
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
   2025-04-06 at 11.55.24.jpeg
