@@ -25,7 +25,7 @@ categories:
   - ''
 ---
 
-Last weekend, my little soul sister from Chennai,  a colleague turned friend and family, and constant in my journey visited me in Delhi.  \\
+Last weekend, my little soul sister from Chennai,  a colleague turned friend and family, and constant in my journey visited me in Delhi.  
 
 The last time I left Chennai, it was bittersweet. I had spent most of my time between the BMT unit and her home. As I was leaving, she said, “You go, Prathipa… I’ll follow you in March.” And she kept her word.
 
@@ -62,6 +62,6 @@ Goodbyes are never easy, but perhaps that’s their gift,  they remind us of wh
 
 > Here’s to passion, purpose, and the people who make it all meaningful. 
 
-Thank you, Sorna. Like I always say, I’m proud of you!\\
+Thank you, Sorna. Like I always say, I’m proud of you!
 
-![](</Untitled design-13.png>)\\
+![](</Untitled design-13.png>)
