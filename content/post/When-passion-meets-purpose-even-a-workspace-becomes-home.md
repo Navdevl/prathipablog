@@ -36,8 +36,8 @@ We didn’t go out much or explore the city, instead, we did what we loved the m
 Back then, it was the doctor’s room/the OPD,  a space where we weren’t just colleagues, but collaborators, support systems, and cheerleaders for one another. That room which we were forced into,  that became our comfort zone. That space held so many memories; it became our home, and we witnessed it all - long work hours: 7 am to 7 pm, patient stories, birthdays, even my farewell.
 
 Last week, when I got to be a small part of a new proposal while she was here, it truly felt like I’d never left.\
-\
-![](</WhatsApp Image 2025-04-06 at 15.01.52.jpeg>)![](</WhatsApp Image 2025-04-06 at 15.04.38.jpeg>)![](</WhatsApp Image 2025-04-06 at 15.01.53.jpeg>)
+![](</Untitled (Your Story).png>)\
+
 
 There’s a special kind of joy in remaining connected to the BMT Unit, the place where my passion took root, and where I personally grew as well. So whenever any BMT Coordinator reaches out with questions, or the team sends me a video of children playing with the toys we once introduced together, it fills me with joy. It reminds me that the work we did truly made a difference and continues to do so, even now.
 
@@ -66,5 +66,6 @@ Goodbyes are never easy, but perhaps that’s their gift,  they remind us of wh
 > Here’s to passion, purpose, and the people who make it all meaningful. 
 
 Thank you, Sorna. Like I always say, I’m proud of you!\
-\
-![](</WhatsApp Image 2025-04-06 at 15.02.21.jpeg>)
+
+
+![](</Untitled design-13.png>)\
