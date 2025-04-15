@@ -18,7 +18,8 @@ description: >
   This blog is my reflection on how the book helped me understand, accept, and
   own my introversion in leadership. To every fellow introvert navigating a loud
   world.. you’re not alone, and your voice matters - even if it’s quiet!
-image: j
+image: >-
+  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/71xEUuZsUoL._AC_UF1000,1000_QL80_.jpg
 tags:
   - ''
   - ''
