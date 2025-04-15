@@ -21,14 +21,14 @@ description: >
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/71xEUuZsUoL._AC_UF1000,1000_QL80_.jpg
 tags:
-  - ''
-  - ''
   - Life
-  - Professional Growth
   - 'Personal Development '
+  - Professional Growth
+  - ''
+  - ''
 categories:
   - Book Review
-  - ''
+  - Books
 ---
 
 I’m finally back with a book review…long overdue, I know! I’ve been procrastinating on these for a while, but it’s time to dive back in, starting with the review of one of my perfect reads.
