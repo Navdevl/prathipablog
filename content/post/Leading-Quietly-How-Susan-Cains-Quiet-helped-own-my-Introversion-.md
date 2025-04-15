@@ -37,7 +37,7 @@ Let me start with this…yes, I’m an introvert.
 
 Not too “shy and hiding-in-the-corner” kind, but the type who doesn't speak unless there's a real reason to. I like meaningful conversations, not just communication for the sake of it. I’ve always been the behind-the-scenes type - backstager leader!
 
-People have called me skillful, dependable, or sharp… but mostly after they’ve seen the outcome of what I’ve done. Rarely at first glance. Because I’m not loud. I don’t announce. I don’t dominate meetings. I work quietly. And then I deliver.
+People have called me skillful or sharp… but mostly after they’ve seen the outcome of what I’ve done. Rarely at first glance. Because I’m not loud. I don’t announce. I don’t dominate meetings. I work quietly. And then I deliver.
 
 When I picked up Quiet: The Power of Introverts in a World That Can’t Stop Talking, I didn’t just read it. I felt seen.
 
