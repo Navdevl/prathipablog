@@ -43,85 +43,91 @@ When I picked up Quiet: The Power of Introverts in a World That Can’t Stop Tal
 
 The author opens the book with how society shifted from valuing character to valuing personality. And wow, that explained a lot.
 
->  “We moved from a Culture of Character to a Culture of Personality.”
+> ** “We moved from a Culture of Character to a Culture of Personality.”**
 
 In other words, it’s not enough anymore to be kind, honest, and capable… you’ve also got to be charming, talkative, and outgoing. I never quite fit that second mold, but this book reminded me that there’s real value in the first.
 
-## The myth of constant collaboration!
+## **The myth of constant collaboration!**
 
 Open offices. Group brainstorming. Constant Zoom calls. The author talks about how too much collaboration can actually kill creativity.
 
-> “Solitude is a catalyst for innovation.
+> **“Solitude is a catalyst for innovation.**
 
 Yes. A thousand times yes.
 
 My best ideas don’t come in group settings. They come when I’m walking alone, scribbling in a notebook, or just letting thoughts marinate. I love working with my team, but I don’t need constant interaction to function. In fact, I thrive without it. 
 
-## Introverts are not broken, we are wired differently!
+I recall an incident from when I had just moved to Delhi for this role. During one of our program meetings, we were encouraged to share our thoughts. I didn’t speak much, and our co-founder pointed out that I needed to speak up more. We hadn’t interacted much until then.
+
+But months passed, and things shifted. When I was recently recognized with a leadership award, she took a moment to appreciate how I communicated. Few days later, at one of the events, our chairman introduced me to the chief guest as a good writer, mental health advocate and so on. And then…unexpected but meaningful, she, the same co-founder, added without prompting that I was also a strong communicator. 
+
+That moment said it all.
+
+## **Introverts are not broken, we are wired differently!**
 
 There’s a chapter on temperament, how introversion is often inborn. That helped me stop trying to “fix” myself.
 
-> “Introverts are not failed extroverts.”
+> **“Introverts are not failed extroverts.”**
 
 This quote hit me hard. I’ve spent years trying to justify why I didn’t network more, speak more, insert myself into every conversation. Now I realize, I don’t need to. I just need to lead in my own way.
 
-## Public speaking, with a racing heart, haha! 
+## **Public speaking, with a racing heart, haha! **
 
 Funny thing about me, is... I love talking about topics I care about… even on stage. My heart still skips a beat, but once I’m up there, I do justice.
 
-> “Don’t think of introversion as something that needs to be cured.”
+> **“Don’t think of introversion as something that needs to be cured.”**
 
 Turns out, introverts can be amazing speakers, especially when it’s coming from a place of deep passion and preparation. 
 
-## Quiet leaders, loud impact!
+## **Quiet leaders, loud impact!**
 
 The author brings up Eleanor Roosevelt and Rosa Parks,  people who changed the world, not with volume, but with conviction -
 
-> “They showed that you can be quiet and still be a leader.”
+> **“They showed that you can be quiet and still be a leader.”**
 
 That’s how I’ve led too. I don’t command a room with energy. But I guide with clarity, intention, and follow-through. I believe so. 
 
-## Thinking slow in a world that moves fast!
+## **Thinking slow in a world that moves fast!**
 
 This chapter compares decision-making styles.. how introverts tend to reflect more. That’s me in every meeting. I don’t react fast, but I respond well.
 
-> “Even in haste, they deliberate.”
+> **“Even in haste, they deliberate.”**
 
 And now that I’m a team manager... that quality is what people respect the most. Calm in chaos, haha. Trying to make the best out of my introversion in leadership, owning it right?!
 
 The author  also explores how some cultures still value quietness. It reminded me that not every strength needs to be broadcasted. Sometimes quiet means humble, grounded, and steady …it does not mean uncertain.
 
-> “In the West, the shy child is seen as a problem to be fixed.”
+> **“In the West, the shy child is seen as a problem to be fixed.”**
 
 But that quiet child can grow into someone capable of leading without shouting.
 
 The author talks about the “rubber band theory.” Basically, you can stretch outside your comfort zone, but only to a point. That’s been my journey exactly!
 
-> “We can stretch ourselves, but only so far.”
+> **“We can stretch ourselves, but only so far.”**
 
 I’ve stretched into management. Into public speaking. Into fast-paced meetings. But I still guard my quiet time fiercely…and  that’s how I recharge.
 
-## Understanding both sides 
+## **Understanding both sides **
 
 As a team lead now, who is also owning up to her introversion, I deal with all kinds of personalities. This chapter helped me become better at bridging the gap, making room for all the personalities of team members to shine, while giving space for introverts to process and contribute in their own rhythm. 
 
-> “Respect the other’s needs.”
+> **“Respect the other’s needs.”**
 
 It’s not rocket science, but it’s something most workplaces miss.
 
-## Quiet kids grow up too!
+## **Quiet kids grow up too!**
 
 This one made me reflect on how many kids grow up feeling ‘not enough’ because they’re quiet. I was one of them. Now I try to make sure the quiet folks on my team feel seen, because they have a lot to say, even if they say it differently.
 
-> “Teach them to value their inner selves.”
+> **“Teach them to value their inner selves.”**
 
 Because once they do, they grow into the kind of adults who quietly change the game.
 
-## Putting myself in the right lighting!
+## **Putting myself in the right lighting!**
 
 The author  ends the book with one of my favorite lines:
 
-> “The secret to life is to put yourself in the right lighting.”
+> **“The secret to life is to put yourself in the right lighting.”**
 
 ## Not everyone needs the spotlight. Some of us do our best work in softer light, not center stage, but still fully present. Like I said, I have always been the backstage leader, and owned it pretty well!
 
