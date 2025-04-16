@@ -19,7 +19,8 @@ description: >
   own my introversion in leadership. To every fellow introvert navigating a loud
   world.. you’re not alone, and your voice matters - even if it’s quiet!
 image: >-
-  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/71xEUuZsUoL._AC_UF1000,1000_QL80_.jpg
+  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
+  2025-04-16 at 09.33.59.jpeg
 tags:
   - Life
   - 'Personal Development '
@@ -43,7 +44,7 @@ When I picked up Quiet: The Power of Introverts in a World That Can’t Stop Tal
 
 The author opens the book with how society shifted from valuing character to valuing personality. And wow, that explained a lot.
 
-> ** “We moved from a Culture of Character to a Culture of Personality.”**
+> \*\* “We moved from a Culture of Character to a Culture of Personality.”\*\*
 
 In other words, it’s not enough anymore to be kind, honest, and capable… you’ve also got to be charming, talkative, and outgoing. I never quite fit that second mold, but this book reminded me that there’s real value in the first.
 
@@ -59,7 +60,7 @@ My best ideas don’t come in group settings. They come when I’m walking alone
 
 I recall an incident from when I had just moved to Delhi for this role. During one of our program meetings, we were encouraged to share our thoughts. I didn’t speak much, and our co-founder pointed out that I needed to speak up more. We hadn’t interacted much until then.
 
-But months passed, and things shifted. When I was recently recognized with a leadership award, she took a moment to appreciate how I communicated. Few days later, at one of the events, our chairman introduced me to the chief guest as a good writer, mental health advocate and so on. And then…unexpected but meaningful, she, the same co-founder, added without prompting that I was also a strong communicator. 
+But months passed, and things shifted. When I was recently recognized with a leadership award, she took a moment to appreciate how I communicated. Few days later, at one of the events, our chairman introduced me to the chief guest as a good writer, mental health advocate and so on. And then…unexpected but meaningful, she, the same co-founder, added without prompting that I was also a strong communicator.
 
 That moment said it all.
 
@@ -71,7 +72,7 @@ There’s a chapter on temperament, how introversion is often inborn. That helpe
 
 This quote hit me hard. I’ve spent years trying to justify why I didn’t network more, speak more, insert myself into every conversation. Now I realize, I don’t need to. I just need to lead in my own way.
 
-## **Public speaking, with a racing heart, haha! **
+## \*\*Public speaking, with a racing heart, haha! \*\*
 
 Funny thing about me, is... I love talking about topics I care about… even on stage. My heart still skips a beat, but once I’m up there, I do justice.
 
@@ -107,7 +108,7 @@ The author talks about the “rubber band theory.” Basically, you can stretch 
 
 I’ve stretched into management. Into public speaking. Into fast-paced meetings. But I still guard my quiet time fiercely…and  that’s how I recharge.
 
-## **Understanding both sides **
+## \*\*Understanding both sides \*\*
 
 As a team lead now, who is also owning up to her introversion, I deal with all kinds of personalities. This chapter helped me become better at bridging the gap, making room for all the personalities of team members to shine, while giving space for introverts to process and contribute in their own rhythm. 
 
