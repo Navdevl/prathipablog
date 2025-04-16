@@ -133,3 +133,5 @@ The author  ends the book with one of my favorite lines:
 ## Not everyone needs the spotlight. Some of us do our best work in softer light, not center stage, but still fully present. Like I said, I have always been the backstage leader, and owned it pretty well!
 
 ## And honestly? That’s where I’ve found myself. Leading a team. Making a difference. Still quiet. Still me.
+
+![](</Untitled design-17.png>)
