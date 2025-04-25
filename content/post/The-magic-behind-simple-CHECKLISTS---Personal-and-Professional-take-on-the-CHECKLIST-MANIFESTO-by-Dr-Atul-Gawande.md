@@ -39,7 +39,7 @@ This is one of the books I finished during the beginning of this year and one of
 
 With everything going on in my life right now…juggling work and personal life, still adjusting to a new city and place, taking on added roles and responsibilities as they come, and learning ahead, it sometimes feels like a lot. I’ve started tackling tasks with a checklist, and trust me, it works great! It made me realize how effective checklists can be in larger setups, especially as I focus on my long-term goal of palliative care.
 
-#### In his book, The Checklist Manifesto, Dr Atul Gawande doesn’t just talk about staying organized, but it’s about making systems work better, preventing mistakes, and how even the smallest steps can have huge consequences.
+***In his book, The Checklist Manifesto, Dr Atul Gawande doesn’t just talk about staying organized, but it’s about making systems work better, preventing mistakes, and how even the smallest steps can have huge consequences.***
 
 As someone working in health communication with an eye on palliative care, this book really resonated with me.
 
@@ -61,7 +61,7 @@ One other most important scenario from the book is about Walmart. They used chec
 
 Another memorable example is of Adam, a chef. In their kitchen, Adam developed detailed checklists for every dish, checklist for the customers, ot because he lacked skill, but because he understood that consistency and excellence come from preparation and systems. Each item, from ingredients to plating was double-checked by the team. This wasn’t about micromanaging talent; it was about respecting the complexity of the craft. Just like in a kitchen, where every step, from ingredients to plating, and customer preference is double-checked, palliative care requires a checklist at every turn. Whether it’s managing pain, providing comfort, or communicating with the family, every detail must be checked to ensure no aspect of the patient's care is overlooked, preserving dignity and quality at each stage.
 
-#### Checklists aren’t just about listing tasks…they’re about creating systems that allow for smooth execution, minimizing human error, and focusing on what truly matters. In healthcare, especially in palliative care, where there’s often a lot of emotional and physical complexity, checklists could play a crucial role in minimizing errors and improving patient care.
+***Checklists aren’t just about listing tasks…they’re about creating systems that allow for smooth execution, minimizing human error, and focusing on what truly matters. In healthcare, especially in palliative care, where there’s often a lot of emotional and physical complexity, checklists could play a crucial role in minimizing errors and improving patient care.***
 
 ![](</WhatsApp Image 2025-04-25 at 23.27.15.jpeg>)
 
@@ -69,7 +69,7 @@ Another memorable example is of Adam, a chef. In their kitchen, Adam developed d
 
 Dr Gawande, despite being a top surgeon, openly talks about mistakes. He emphasizes human fallibility and the courage it takes to admit. He mentioned that he needs a checklist! We need more professionals like him…people who challenge the status quo and encourage teamwork.
 
-#### It made me think…this is what palliative care teams should feel like. Different professionals working together, supported by systems like checklists to ensure nothing is missed, and everyone has a role to play. It’s about creating a culture where speaking up is encouraged, and the focus is always on the patient’s well-being, not just the tasks at hand.
+***It made me think…this is what palliative care teams should feel like. Different professionals working together, supported by systems like checklists to ensure nothing is missed, and everyone has a role to play. It’s about creating a culture where speaking up is encouraged, and the focus is always on the patient’s well-being, not just the tasks at hand.***
 
 Reading this reminded me of a turning point in my own thinking: Walk With the Weary by Dr M R Rajagopal. That book was my first heartfelt and real glimpse into the world of palliative care. It was a learning and unlearning moment, and opened my eyes wider to the idea that I firmly believe - that healthcare is not just about treating diseases.. it’s about being present, easing pain, and preserving dignity.
 
