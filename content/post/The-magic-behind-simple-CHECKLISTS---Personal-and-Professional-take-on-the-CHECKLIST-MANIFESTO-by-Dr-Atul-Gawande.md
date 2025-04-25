@@ -10,20 +10,15 @@ description: >
   bit lost, and it truly shifted my perspective. As someone working in health
   communication and slowly stepping into the world of palliative care, this book
   really hit home. It’s not just about staying organized...it’s about systems
-  that reduce errors and make space for what matters,
-
-
-  From the WHO Surgical Safety Checklist to pilots landing planes safely using
-  protocols, Dr Gawande shows how simple checklists save lives. He also shares
-  great stories from how Walmart used a checklist mindset to respond effectively
-  during Hurricane Katrina, to how Adam, a chef, ensures excellence in every
-  dish with a checklist at every turn. These examples remind us that whether
-  it’s a crisis, an aircraft, a kitchen, or a hospital, structure brings
-  clarity. 
-
-
-  And in palliative care, where complexity meets the need for compassion…that
-  clarity is everything.
+  that reduce errors and make space for what matters. From the WHO Surgical
+  Safety Checklist to pilots landing planes safely using protocols, Dr Gawande
+  shows how simple checklists save lives. He also shares great stories from how
+  Walmart used a checklist mindset to respond effectively during Hurricane
+  Katrina, to how Adam, a chef, ensures excellence in every dish with a
+  checklist at every turn. These examples remind us that whether it’s a crisis,
+  an aircraft, a kitchen, or a hospital, structure brings clarity. And in
+  palliative care, where complexity meets the need for compassion…that clarity
+  is everything.
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
   2025-04-25 at 23.39.02.jpeg
