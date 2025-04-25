@@ -35,25 +35,29 @@ This is one of the books I finished during the beginning of this year and one of
 
 With everything going on in my life right now…juggling work and personal life, still adjusting to a new city and place, taking on added roles and responsibilities as they come, and learning ahead, it sometimes feels like a lot. I’ve started tackling tasks with a checklist, and trust me, it works great! It made me realize how effective checklists can be in larger setups, especially as I focus on my long-term goal of palliative care.
 
-#### In his book, The Checklist Manifesto, Dr Atul Gawande doesn’t just talk about staying organized, but it’s about making systems work better, preventing mistakes, and how even the smallest steps can have huge consequences. 
+#### In his book, The Checklist Manifesto, Dr Atul Gawande doesn’t just talk about staying organized, but it’s about making systems work better, preventing mistakes, and how even the smallest steps can have huge consequences.
 
 As someone working in health communication with an eye on palliative care, this book really resonated with me.
 
-# Personal learning
+## **Personal learning**
 
 On a personal level, I’ve learned that something as simple as a checklist can bring clarity to overwhelming situations. Life can get chaotic, and having a way to focus on the essentials really helps me stay grounded. It’s not just about ticking off tasks, it’s about simplifying complexity and reducing mistakes….something I can now apply both at work and in my personal life.
 
 Recently, when I faced a bit of confusion regarding a career-related decision, I created a practical checklist to help break down the options. It helped me when I hit a dead end and couldn't decide on my next step, it was as important as that. It gave me structure, clarity, and confidence in my choice. What’s even more interesting is that this concept of simplification is applicable not just in our day-to-day tasks but in solving big, complex issues that we often face in both personal and professional life, and just imagine how much of a difference it could make in a healthcare setting.
 
-# Professional learning
+## **Professional learning**
 
 From a professional view, I’ve come to see checklists as an essential tool for improving outcomes, particularly in healthcare. Dr Gawande takes us into operating rooms, airplane cockpits, etc., to show how checklists manage complexity. In one of his initial, and most effective examples, at John Hopkins hospitals, a simple five-step checklist for inserting central lines led to infection rates dropping from 11% to 0%. It's not about fancy technology, it’s about following the steps.
 
-It’s clear that the more complex a task becomes, the more necessary it is to have a system in place to track and ensure that all steps are being followed properly. Pilots use checklists before every flight. Doctors use them in surgeries. The more complex the task, the more important it is to have clarity.
+It’s clear that the more complex a task becomes, the more necessary it is to have a system in place to track and ensure that all steps are being followed properly. Pilots use checklists before every flight. Doctors use them in surgeries. The more complex the task, the more important it is to have clarity.\
+\
+One other most important scenario from the book is about Walmart. They used checklists to deal with the aftermath of Hurricane Katrina. When the disaster struck, the company faced the monumental challenge of delivering supplies and rebuilding its operations. What stood out was how their pre-existing checklist system allowed Walmart to respond quickly and efficiently. Despite the chaos, the company was able to deploy its employees and resources in a streamlined way, using a system that made the entire recovery process much more efficient.
+
+Another memorable example is of Adam, a chef. In their kitchen, Adam developed detailed checklists for every dish, checklist for the customers, ot because he lacked skill, but because he understood that consistency and excellence come from preparation and systems. Each item, from ingredients to plating was double-checked by the team. This wasn’t about micromanaging talent; it was about respecting the complexity of the craft. Just like in a kitchen, where every step, from ingredients to plating, and customer preference is double-checked, palliative care requires a checklist at every turn. Whether it’s managing pain, providing comfort, or communicating with the family, every detail must be checked to ensure no aspect of the patient's care is overlooked, preserving dignity and quality at each stage.
 
 #### Checklists aren’t just about listing tasks…they’re about creating systems that allow for smooth execution, minimizing human error, and focusing on what truly matters. In healthcare, especially in palliative care, where there’s often a lot of emotional and physical complexity, checklists could play a crucial role in minimizing errors and improving patient care.
 
-## Healthcare could be more...human
+## **Healthcare could be more...human**
 
 Dr Gawande, despite being a top surgeon, openly talks about mistakes. He emphasizes human fallibility and the courage it takes to admit. He mentioned that he needs a checklist! We need more professionals like him…people who challenge the status quo and encourage teamwork.
 
