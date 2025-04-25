@@ -3,7 +3,7 @@ title: >-
   The magic behind simple CHECKLISTS - Personal and Professional take on the
   “CHECKLIST MANIFESTO” by Dr Atul Gawande
 author: Prathipa K
-date: 2025-04-25T18:30:00.000Z
+date: 2025-04-24T18:30:00.000Z
 description: >
   In this blog, I share personal and professional reflections on "The Checklist
   Manifesto by Dr Atul Gawande", a book my mentor once recommended when I was a
