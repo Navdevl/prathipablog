@@ -11,8 +11,8 @@ description: >
   communication and slowly stepping into the world of palliative care, this book
   really hit home. It’s not just about staying organized...it’s about systems
   that reduce errors and make space for what matters. From the WHO Surgical
-  Safety Checklist to pilots landing planes safely using step-by-step protocols,
-  Gawande shows how simple checklists save lives. And in palliative care, where
+  Safety Checklist to pilots landing planes safely using protocols, Gawande
+  shows how simple checklists save lives. And in palliative care, where
   complexity meets the need for compassion...this kind of clarity and structure
   is everything.
 image: >-
@@ -49,6 +49,8 @@ Recently, when I faced a bit of confusion regarding a career-related decision, I
 
 From a professional view, I’ve come to see checklists as an essential tool for improving outcomes, particularly in healthcare. Dr Gawande takes us into operating rooms, airplane cockpits, etc., to show how checklists manage complexity. In one of his initial, and most effective examples, at John Hopkins hospitals, a simple five-step checklist for inserting central lines led to infection rates dropping from 11% to 0%. It's not about fancy technology, it’s about following the steps.
 
+![](</WhatsApp Image 2025-04-25 at 23.22.59.jpeg>)
+
 It’s clear that the more complex a task becomes, the more necessary it is to have a system in place to track and ensure that all steps are being followed properly. Pilots use checklists before every flight. Doctors use them in surgeries. The more complex the task, the more important it is to have clarity.\
 \
 One other most important scenario from the book is about Walmart. They used checklists to deal with the aftermath of Hurricane Katrina. When the disaster struck, the company faced the monumental challenge of delivering supplies and rebuilding its operations. What stood out was how their pre-existing checklist system allowed Walmart to respond quickly and efficiently. Despite the chaos, the company was able to deploy its employees and resources in a streamlined way, using a system that made the entire recovery process much more efficient.
@@ -56,6 +58,8 @@ One other most important scenario from the book is about Walmart. They used chec
 Another memorable example is of Adam, a chef. In their kitchen, Adam developed detailed checklists for every dish, checklist for the customers, ot because he lacked skill, but because he understood that consistency and excellence come from preparation and systems. Each item, from ingredients to plating was double-checked by the team. This wasn’t about micromanaging talent; it was about respecting the complexity of the craft. Just like in a kitchen, where every step, from ingredients to plating, and customer preference is double-checked, palliative care requires a checklist at every turn. Whether it’s managing pain, providing comfort, or communicating with the family, every detail must be checked to ensure no aspect of the patient's care is overlooked, preserving dignity and quality at each stage.
 
 #### Checklists aren’t just about listing tasks…they’re about creating systems that allow for smooth execution, minimizing human error, and focusing on what truly matters. In healthcare, especially in palliative care, where there’s often a lot of emotional and physical complexity, checklists could play a crucial role in minimizing errors and improving patient care.
+
+![](</WhatsApp Image 2025-04-25 at 23.27.15.jpeg>)
 
 ## **Healthcare could be more...human**
 
@@ -70,3 +74,5 @@ Dr Gawande’s book hit that same nerve, but from a different angle. He’s show
 I’m now eyeing Compassionomics: The Revolutionary Scientific Evidence That Caring Makes a Difference by Stephen Trzeciak and Anthony Mazzarelli, and Dignity in Care by Harvey Max Chochinov. (Feel free to get me either one. I won’t stop you, lol :P)
 
 If you work in healthcare, policy, or communication, or if you care about improving systems, please give this book a  read. It's a great, realistic,  honest, and moving book that makes a case for why checklists aren’t about limiting creativity…they’re about ensuring what matters doesn’t get lost in the chaos. In healthcare, especially in palliative care, that clarity is everything is what I believe! 
+
+![](</WhatsApp Image 2025-04-25 at 23.27.15 (1).jpeg>)
