@@ -18,7 +18,7 @@ description: >
   checklist at every turn. These examples remind us that whether it’s a crisis,
   an aircraft, a kitchen, or a hospital, structure brings clarity. And in
   palliative care, where complexity meets the need for compassion…that clarity
-  is everything.
+  is everything!
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
   2025-04-25 at 23.39.02.jpeg
