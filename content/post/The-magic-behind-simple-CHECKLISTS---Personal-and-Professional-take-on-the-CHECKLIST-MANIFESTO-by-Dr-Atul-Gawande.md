@@ -24,10 +24,10 @@ description: >
   \
 
   And in palliative care, where complexity meets the need for compassion…that
-  clarity is everything.\
+  clarity is everything.\\
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
-  2025-04-16 at 19.09.30.jpeg
+  2025-04-25 at 23.39.02.jpeg
 tags:
   - Palliative Care
   - 'Health Care '
