@@ -35,7 +35,7 @@ categories:
 
 Back again with a book review!\
 \
-This is one of the books I finished during the beginning of this year and one of the reviews I’ve been procrastinating on, but it’s time to share it now. This book was actually referred to me by my mentor long back when I was working with her. Back then, I was a bit lost, maybe unsure about things, and she probably saw the importance of this book for me. Well, it turns out, she was right…it’s important for everyone! It’s been a game-changer for me. 
+This is one of the books I started last year, however finished during the beginning of this year. One of the reviews I’ve been procrastinating on, but it’s time to share it now. This book was actually referred to me by my mentor long back when I was working with her. Back then, I was a bit lost, maybe unsure about things, and she probably saw the importance of this book for me. Well, it turns out, she was right…it’s important for everyone! It’s been a game-changer for me. 
 
 With everything going on in my life right now…juggling work and personal life, still adjusting to a new city and place, taking on added roles and responsibilities as they come, and learning ahead, it sometimes feels like a lot. I’ve started tackling tasks with a checklist, and trust me, it works great! It made me realize how effective checklists can be in larger setups, especially as I focus on my long-term goal of palliative care.
 
