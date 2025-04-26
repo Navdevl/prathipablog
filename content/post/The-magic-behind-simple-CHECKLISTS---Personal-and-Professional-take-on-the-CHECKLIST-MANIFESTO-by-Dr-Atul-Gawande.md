@@ -21,7 +21,7 @@ description: >
   is everything!
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
-  2025-04-26 at 10.51.35.jpeg
+  2025-04-26 at 11.29.41.jpeg
 tags:
   - Palliative Care
   - 'Health Care '
