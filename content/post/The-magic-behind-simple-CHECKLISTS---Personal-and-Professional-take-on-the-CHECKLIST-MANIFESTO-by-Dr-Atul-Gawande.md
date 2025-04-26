@@ -43,6 +43,8 @@ With everything going on in my life right now…juggling work and personal life,
 
 As someone working in health communication with an eye on palliative care, this book really resonated with me.
 
+![](</WhatsApp Image 2025-04-25 at 23.39.02.jpeg>)
+
 ## **Personal learning**
 
 On a personal level, I’ve learned that something as simple as a checklist can bring clarity to overwhelming situations. Life can get chaotic, and having a way to focus on the essentials really helps me stay grounded. It’s not just about ticking off tasks, it’s about simplifying complexity and reducing mistakes….something I can now apply both at work and in my personal life.
