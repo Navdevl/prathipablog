@@ -9,8 +9,8 @@ description: >
   just about milestones... it’s about meaning. Six months may have gone, but
   they were not lost.
 image: >-
-  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/Today/WhatsApp
-  Image 2025-07-02 at 16.07.20.jpeg
+  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
+  2025-07-02 at 22.23.58.jpeg
 ---
 
 Every year, around this time, my anxiety tends to peak. And yet, almost instinctively, I turn to writing something hopeful on social media. So here I am, doing just that again.
@@ -51,7 +51,7 @@ Thank you, Sir, for continuing to inspire me. Your book “Walk with the Weary�
 
 ![](</WhatsApp Image 2025-07-02 at 22.03.25.jpeg>)
 
-## **Not a CA yet - you deserve to be celebrated too! **
+## \*\*Not a CA yet - you deserve to be celebrated too! \*\*
 
 Now shifting from doctors to someone closer to home… my partner in all things, my soon-to-be life partner. He’s a Senior Audit Analyst who flew all the way to Delhi to spend time with me. While he’s not a Chartered Accountant yet, I’m celebrating him this CA Day too.
 
@@ -78,11 +78,11 @@ But I’ve also:
 
 ![](</WhatsApp Image 2025-07-02 at 22.07.01.jpeg>)
 
-And when I say I’m doing well at work, I mean it, especially in terms of leadership as I've mentioned on my last LinkedIn post. In Delhi, I’ve had the opportunity to meet powerful leaders, especially women. But the very first woman in power who inspired me? That will always be Dr Aruna, the same mentor I’ve spoken about initially on this post. I’ve learned many subtle, powerful lessons in leadership just by observing her. And looking back now, maybe those lessons quietly prepared me for the leadership role I stepped into here... even at a time when I didn’t feel ready. Turns out, I was more prepared than I thought… thanks to her. 
+And when I say I’m doing well at work, I mean it, especially in terms of leadership as I've mentioned on my last LinkedIn post. In Delhi, I’ve had the opportunity to meet powerful leaders, especially women. But the very first woman in power who inspired me? That will always be Dr Aruna, the same mentor I’ve spoken about initially on this post. I’ve learned many subtle, powerful lessons in leadership just by observing her. And looking back now, maybe those lessons quietly prepared me for the leadership role I stepped into here... even at a time when I didn’t feel ready. Turns out, I was more prepared than I thought… thanks to her.
 
 I’ve always thrived at the grassroots, a people person. But these encounters, these mentors, and these experiences have stirred something deeper. It’s made me want more.
 
-I still remember my first day at the BMT unit. Dr Aruna barely knew me, but as we waited at the Dean’s office, she said...“You shouldn’t leave before two years, okay? At most five. But in five years, you should be in a higher administrative position at the WHO or UN, making policy-level changes. At the time, I didn’t see myself as a leader. 
+I still remember my first day at the BMT unit. Dr Aruna barely knew me, but as we waited at the Dean’s office, she said...“You shouldn’t leave before two years, okay? At most five. But in five years, you should be in a higher administrative position at the WHO or UN, making policy-level changes. At the time, I didn’t see myself as a leader.
 
 Even recently, when another opportunity came up within CanKids, she told me...“There’s no single path for you, Prathipa. Take every chance. Learn everything.”
 
