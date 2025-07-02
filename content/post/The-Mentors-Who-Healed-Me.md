@@ -1,22 +1,13 @@
 ---
-title: The Mentors Who Healed Me
+title: 'Six Months Gone… But Not Lost, Just Lived'
 author: prathipa
 date: 2025-07-01T18:30:00.000Z
 description: >
-  Every year, around this time, my anxiety tends to peak. And yet, almost
-  instinctively, I turn to writing something hopeful on social media. So here I
-  am, doing just that again.
-
-
-  Yesterday was National Doctors' Day… and apparently, also National Chartered
-  Accountants Day. This post might wander a bit, but at its heart, it’s about
-  four incredible individuals, three who’ve played deeply personal roles in my
-  life, and one I admire from afar. All of them were in my thoughts yesterday.
-
-
-  This year’s theme for National Doctors' Day was “Behind the Mask: Who Heals
-  the Healers?”... a reminder that doctors, with all their service and
-  compassion, often pay a personal price to care for others, right?!
+  A mid-year reflection filled with gratitude, growth, and gentle reminders,
+  about the mentors who’ve shaped me, the partner who’s walked beside me, and
+  the purpose that keeps me grounded. Not always a bed of roses, and this isn’t
+  just about milestones... it’s about meaning. Six months may have gone, but
+  they were not lost.
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/Today/WhatsApp
   Image 2025-07-02 at 16.07.20.jpeg
@@ -50,7 +41,7 @@ They deserve that and so much more.
 
 ![](</Today/WhatsApp Image 2025-07-02 at 21.24.32.jpeg>)
 
-## The Father of Palliative Care… my Guiding Light from afar!
+## **The Father of Palliative Care… my Guiding Light from afar!**
 
 Next, I want to talk about someone I admire from afar… Dr M R Rajagopalan…the Father of Palliative Care in India… the very field I am now passionately pursuing. The moment you meet him, all your skepticism about healthcare begins to dissolve. That’s who he is, a living, breathing embodiment of compassion. He doesn’t just practice care; he lives it. And he shares it with the world.
 
@@ -58,7 +49,9 @@ There was a time I kept applying for roles at Pallium India, not because I was d
 
 Thank you, Sir, for continuing to inspire me. Your book “Walk with the Weary” still lives within me, and I often pass on its wisdom to others. You’ve sown the seeds of compassionate care…and they continue to bloom in countless lives.
 
-## Not a CA yet - you deserve to be celebrated too! 
+![](</WhatsApp Image 2025-07-02 at 22.03.25.jpeg>)
+
+## **Not a CA yet - you deserve to be celebrated too! **
 
 Now shifting from doctors to someone closer to home… my partner in all things, my soon-to-be life partner. He’s a Senior Audit Analyst who flew all the way to Delhi to spend time with me. While he’s not a Chartered Accountant yet, I’m celebrating him this CA Day too.
 
@@ -66,7 +59,9 @@ No, I didn’t wish him formally ('cos I didn't know until he mentioned last nig
 
 Thank you for being an exceptional Audit Analyst. And more importantly, thank you for being an exceptional human being.
 
-## And then, there’s ME!
+![](</Today/WhatsApp Image 2025-07-02 at 21.15.31.jpeg>)
+
+## **And then, there’s ME!**
 
 Yes, my anxiety is peaking… just like it does every year around this time. But I’m also dreaming bigger than ever. Maybe that’s why my posts often come out raw and real, because life isn’t always a bed of roses.
 
@@ -80,6 +75,8 @@ But I’ve also:
 * Built deeper connections with my team
 * Enrolled in a new course
 * Played peacemaker in the family (which counts, right?)
+
+![](</WhatsApp Image 2025-07-02 at 22.07.01.jpeg>)
 
 And when I say I’m doing well at work, I mean it, especially in terms of leadership as I've mentioned on my last LinkedIn post. In Delhi, I’ve had the opportunity to meet powerful leaders, especially women. But the very first woman in power who inspired me? That will always be Dr Aruna, the same mentor I’ve spoken about initially on this post. I’ve learned many subtle, powerful lessons in leadership just by observing her. And looking back now, maybe those lessons quietly prepared me for the leadership role I stepped into here... even at a time when I didn’t feel ready. Turns out, I was more prepared than I thought… thanks to her. 
 
@@ -103,6 +100,8 @@ Since months might have gone, but don’t feel lost.
 
 Because in the end, it’s the little things…
 The big-hearted people…
-And the purpose that keeps us anchored.
+And the purpose that keeps us going and rooted.
 
-One day at a time. One year at a time.
+One day at a time. One year at a time.\
+\
+Here we come, next six months....with passion, love,  hope and kindness :)))
