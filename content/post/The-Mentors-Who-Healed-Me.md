@@ -76,7 +76,7 @@ But I’ve also:
 * Enrolled in a new course
 * Played peacemaker in the family (which counts, right?)
 
-![](</WhatsApp Image 2025-07-02 at 22.07.01.jpeg>)
+![](</WhatsApp Image 2025-07-02 at 22.32.43.jpeg>)
 
 And when I say I’m doing well at work, I mean it, especially in terms of leadership as I've mentioned on my last LinkedIn post. In Delhi, I’ve had the opportunity to meet powerful leaders, especially women. But the very first woman in power who inspired me? That will always be Dr Aruna, the same mentor I’ve spoken about initially on this post. I’ve learned many subtle, powerful lessons in leadership just by observing her. And looking back now, maybe those lessons quietly prepared me for the leadership role I stepped into here... even at a time when I didn’t feel ready. Turns out, I was more prepared than I thought… thanks to her.
 
