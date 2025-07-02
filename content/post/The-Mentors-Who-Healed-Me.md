@@ -15,7 +15,7 @@ image: >-
 
 Every year, around this time, my anxiety tends to peak. And yet, almost instinctively, I turn to writing something hopeful on social media. So here I am, doing just that again.
 
-Yesterday was National Doctors' Day… and apparently, also National Chartered Accountants Day. This post might wander a bit, but at its heart, it’s about four incredible individuals, three who’ve played  personal roles in my life, and one I admire from afar. All of them were in my thoughts yesterday.
+Yesterday was National Doctors' Day… and apparently, also National Chartered Accountants Day. This post might wander a bit, but at its heart, it’s about four incredible individuals, three who are close, and who’ve played personal roles in my life, and one I admire from afar. All of them were in my thoughts yesterday.
 
 This year’s theme for National Doctors' Day was “Behind the Mask: Who Heals the Healers?”... a reminder that doctors, with all their service and compassion, pay a personal price to care for others, right?!
 
@@ -27,7 +27,9 @@ What makes them exceptional isn’t just their brilliance in medicine. It’s th
 
 It’s been nine months since I left the BMT unit, yet not a single day has gone by without thinking about them..without their words echoing in my mind. That’s the kind of impact they’ve had, both personally and professionally.
 
-Reflecting on this year’s theme, “Who Heals the Healers?”... I found myself thinking about a photo I took last night during a quiet walk. I had sent a small token of love to Dr Aruna last night, something I do with the people I hold dear. That anxious, overwhelmed, but happy face in the picture? That was me.
+Reflecting on this year’s theme, “Who Heals the Healers?”... Last night I had sent a small token of love to Dr Aruna last night, something I do with the people I hold dear. That anxious, overwhelmed, but happy face in the picture? That is me.
+
+![](</Today/WhatsApp Image 2025-07-02 at 16.07.20.jpeg>)
 
 I know she has been working late. But I didn't realize that long into the night. But later that night, I realized she hadn’t even reached home yet even by 11 in the night. She was still seeing patients late into the evening… working, serving, healing. Then returning home to her two young boys and her loving family. It hit me hard. Though I was happy doing my little “ritual,” I was also saddened by how much she juggles. I know she loves her work, but still… Who heals the healers, right?!
 
