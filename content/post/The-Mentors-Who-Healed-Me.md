@@ -51,7 +51,7 @@ Thank you, Sir, for continuing to inspire me. Your book “Walk with the Weary�
 
 ![](</WhatsApp Image 2025-07-02 at 22.03.25.jpeg>)
 
-## \*\*Not a CA yet - you deserve to be celebrated too! \*\*
+## **Not a CA yet - you deserve to be celebrated too!**
 
 Now shifting from doctors to someone closer to home… my partner in all things, my soon-to-be life partner. He’s a Senior Audit Analyst who flew all the way to Delhi to spend time with me. While he’s not a Chartered Accountant yet, I’m celebrating him this CA Day too.
 
