@@ -27,7 +27,7 @@ What makes them exceptional isn’t just their brilliance in medicine. It’s th
 
 It’s been nine months since I left the BMT unit, yet not a single day has gone by without thinking about them..without their words echoing in my mind. That’s the kind of impact they’ve had, both personally and professionally.
 
-Reflecting on this year’s theme, “Who Heals the Healers?”... Last night I had sent a small token of love to Dr Aruna last night, something I do with the people I hold dear. That anxious, overwhelmed, but happy face in the picture? That is me.
+Reflecting on this year’s theme, “Who Heals the Healers?”... Last night I had sent a small token of love to Dr Aruna and Dr Sasidaran...a tradition I do with the people I hold dear. That anxious, overwhelmed, but happy face in the picture? That is me.
 
 ![](</Today/WhatsApp Image 2025-07-02 at 16.07.20.jpeg>)
 
