@@ -31,7 +31,7 @@ Reflecting on this year’s theme, “Who Heals the Healers?”... Last night I 
 
 ![](</Today/WhatsApp Image 2025-07-02 at 16.07.20.jpeg>)
 
-I know she has been working late. But I didn't realize that long into the night. But later that night, I realized she hadn’t even reached home yet even by 11 in the night. She was still seeing patients late into the night… working, serving, healing. Then returning home to her two young boys and her loving family. It hit me hard. Though I was happy doing my little “ritual,” I was also saddened by how much she juggles. I know she loves her work, but still… Who heals the healers, right?!
+I know she has been working late. But I didn't realize that long into the night. But later that night, I realized she hadn’t even reached home yet even by 11 in the night. She was still seeing patients late into the night… working, serving, healing. Then returning home to tend to her two young boys and her loving family, who would've gone to bed already at that hour. It hit me hard. Though I was happy doing my little “tradition,” I was also saddened by how much she juggles. I know she loves what she does, but still… Who heals the healers, right?!
 
 And Dr Sasidaran, he initially came across as the “strict professor,” someone I found intimidating. But over time, I saw the warmth behind the formality. I wish I had more time to learn from him. He is a bundle of knowledge yet so humble. Even now, whenever I visit Chennai, I still budge them both. I probably always will.
 
