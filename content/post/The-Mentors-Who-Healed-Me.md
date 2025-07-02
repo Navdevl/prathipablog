@@ -10,7 +10,7 @@ description: >
   they were not lost.
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
-  2025-07-02 at 22.23.58.jpeg
+  2025-07-02 at 22.33.54.jpeg
 ---
 
 Every year, around this time, my anxiety tends to peak. And yet, almost instinctively, I turn to writing something hopeful on social media. So here I am, doing just that again.
