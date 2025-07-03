@@ -53,6 +53,8 @@ Thank you, Sir, for continuing to inspire me. Your book “Walk with the Weary�
 
 ![](</WhatsApp Image 2025-07-02 at 22.03.25.jpeg>)
 
+If only I had crossed paths with these mentors earlier...maybe, just maybe, I would've even considered studying medicine (despite my dislike for biology haha). I truly love what I am doing today, and a big part of that is shaped by the inspiration I find in doctors and people like them... who remind me what true care and compassion look like.
+
 ## **Not a CA yet - you deserve to be celebrated too!**
 
 Now shifting from doctors to someone closer to home… my partner in all things, my soon-to-be life partner. He’s a Senior Audit Analyst who flew all the way to Delhi to spend time with me. While he’s not a Chartered Accountant yet, I’m celebrating him this CA Day too.
