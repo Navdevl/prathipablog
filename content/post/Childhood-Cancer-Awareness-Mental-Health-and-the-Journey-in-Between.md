@@ -14,7 +14,7 @@ description: >
   of advocacy, deadlines, leadership and mental health struggles.
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
-  2025-09-10 at 23.32.36.jpeg
+  2025-09-11 at 00.08.22.jpeg
 ---
 
 # Why Childhood Cancer Awareness?
@@ -83,6 +83,8 @@ So I always take a deep breath, have my black coffee, let go and carried on. Exh
 And to my team, apologies if you’ve seen my worst side this past week (lol), but we also had a lot of fun along the way. Thank you all.
 
 Thanks Aparna once again. You are little off the loop. Shivam, the next milestone’s on you, no pressure at all, haha.
+
+![](</WhatsApp Image 2025-09-11 at 00.08.22.jpeg>)
 
 ![](</WhatsApp Image 2025-09-10 at 23.21.47.jpeg>)
 
