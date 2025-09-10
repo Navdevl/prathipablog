@@ -109,8 +109,6 @@ And as I hope to balance my tasks, I also really want to focus on the Palliative
 
 Every child I meet, every caregiver I speak to, every teammate I work with adds a new layer of depth to who I am, both as a person and as a professional.
 
-## Closing Reflections
-
 I’ve learned, unlearned, broken down and rebuilt as I said. But I’m still here. Still fighting for childhoods that deserve to be lived fully. Still speaking openly about mental health in a world that often prefers silence. Still learning to care for myself while caring for others.
 
 That, for me, is the true meaning of this September... to fight for life, theirs, yours and mine.
