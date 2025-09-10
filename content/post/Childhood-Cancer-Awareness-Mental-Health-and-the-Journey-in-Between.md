@@ -14,7 +14,7 @@ description: >
   of advocacy, deadlines, leadership and mental health struggles.
 image: >-
   https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
-  2025-07-03 at 01.48.15.jpeg
+  2025-09-10 at 23.32.36.jpeg
 ---
 
 # Why Childhood Cancer Awareness?
@@ -40,6 +40,8 @@ Let me tell you about a child, Bhagyalakshi, who has Ewing’s sarcoma. Her hand
 
 Childhood shouldn’t be lost. Quality of life shouldn’t be compromised. And there are so many children out there like Bhagyalakshmi. That’s why I believe so deeply in this cause, because childhood is precious. And I believe in health as the foundation of everything, both public and mental health. That is why I advocate.and why I continue.
 
+![](</Untitled design-14.jpg>)
+
 ## Timely Diagnosis, Timely Treatment
 
 If there is one message I wish every parent, policymaker and healthcare provider would carry, it’s this...timely diagnosis and timely treatment save lives. With cancer, every day matters. Early detection means not just survival, but better quality of life for children like Bhagyalakshi.
@@ -50,9 +52,11 @@ This is why awareness, advocacy and accessible healthcare systems matter so much
 
 I call myself an empath, but honestly, these past weeks I’ve lost my cool more times than I’d like to admit,  lashed out, walked out. And yet, my team stood by me.
 
-Today, we finally settled something important and I want to give a special shoutout to the newest (and youngest) member of our team, less than a month in, but already handling big tasks with so much grace. I couldn’t be prouder, Aparna. 
+Today, we finally settled something important and I want to give a special shoutout to the newest (and youngest) member of our team, less than a month in, but already handling big tasks with so much grace. I couldn’t be prouder, Aparna.
 
-In this process, you know, there were so many days I desperately wanted to take leave, my body and mind needed it. But with deadlines looming and the need to be with my team to coordinate, I pushed myself to stay. It was exhausting, but we made it through together. 
+![](</WhatsApp Image 2025-09-10 at 23.16.50.jpeg>)
+
+In this process, you know, there were so many days I desperately wanted to take leave, my body and mind needed it. But with deadlines looming and the need to be with my team to coordinate, I pushed myself to stay. It was exhausting, but we made it through together.
 
 And now, I’m finally looking forward to that break and to concentrate on the wedding ahead soon… my wedding hehe.
 
@@ -76,13 +80,17 @@ Back when I had career anxiety, my mentor back in chennai always reminded me tha
 
 So I always take a deep breath, have my black coffee, let go and carried on. Exhausting, yes but at least I had a backup: the boss. Thank you sirji :))
 
-And to my team, apologies if you’ve seen my worst side this past week (lol), but we also had a lot of fun along the way. Thank you all. 
+And to my team, apologies if you’ve seen my worst side this past week (lol), but we also had a lot of fun along the way. Thank you all.
 
 Thanks Aparna once again. You are little off the loop. Shivam, the next milestone’s on you, no pressure at all, haha.
 
+![](</WhatsApp Image 2025-09-10 at 23.21.47.jpeg>)
+
+![](</WhatsApp Image 2025-09-10 at 23.19.33.jpeg>)
+
 ## Gratitude to My Partner
 
-And in all of this, I cannot forget the one constant who has held me together, my partner. 
+And in all of this, I cannot forget the one constant who has held me together, my partner.
 
 While balancing the demands of his own career in US Audit, he’s been the only one who truly understands or atleast still tries to understand the nuances of my mental health. He sees my career obsession, my passion, my anxiety and the toll it sometimes takes on my health. He gets far less of the 'fun me' than I wish I could give, yet he never complains.
 
@@ -106,6 +114,3 @@ Every child I meet, every caregiver I speak to, every teammate I work with adds 
 I’ve learned, unlearned, broken down and rebuilt as I said. But I’m still here. Still fighting for childhoods that deserve to be lived fully. Still speaking openly about mental health in a world that often prefers silence. Still learning to care for myself while caring for others.
 
 That, for me, is the true meaning of this September... to fight for life, theirs, yours and mine.
-
-
-
