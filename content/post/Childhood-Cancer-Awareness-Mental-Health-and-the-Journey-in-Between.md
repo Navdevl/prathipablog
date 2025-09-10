@@ -52,7 +52,7 @@ This is why awareness, advocacy and accessible healthcare systems matter so much
 
 I call myself an empath, but honestly, these past weeks I’ve lost my cool more times than I’d like to admit,  lashed out, walked out. And yet, my team stood by me.
 
-Today, we finally settled something important and I want to give a special shoutout to the newest (and youngest) member of our team, less than a month in, but already handling big tasks with so much grace. I couldn’t be prouder, Aparna.
+Today, we finally settled something important and I want to give a special shoutout to the newest (and youngest) member of our team, less than a month in, but already handling big tasks with so much grace. I couldn’t be prouder, Aparna. Your mamma bear is happy, just like you all call me :)) I’m just as proud of the whole team, you kiddos keep me going. Happy to do the babysitting, haha!
 
 ![](</WhatsApp Image 2025-09-10 at 23.16.50.jpeg>)
 
