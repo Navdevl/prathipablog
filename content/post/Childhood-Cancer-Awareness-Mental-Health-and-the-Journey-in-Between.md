@@ -56,7 +56,7 @@ Today, we finally settled something important and I want to give a special shout
 
 ![](</WhatsApp Image 2025-09-10 at 23.16.50.jpeg>)
 
-In this process, you know, there were so many days I desperately wanted to take leave, my body and mind needed it. But with deadlines looming and the need to be with my team to coordinate, I pushed myself to stay. It was exhausting, but we made it through together.
+In this process, you know, there were so many days I desperately wanted to take leave, my body and mind needed it. But with deadlines looming and the need to be with my team to coordinate, I pushed myself to stay. It was exhausting, but we made it through together. Also, with our new head these past few weeks, it was a brand-new creative experience. Good to have worked with you so far, Rumi!
 
 And now, I’m finally looking forward to that break and to concentrate on the wedding ahead soon… my wedding hehe.
 
