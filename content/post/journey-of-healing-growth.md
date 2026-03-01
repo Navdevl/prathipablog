@@ -48,7 +48,7 @@ So why should I feel ashamed about navigating my mental health while working in 
 
 Like Sehee wrote, she has held the hands of many people already and was ready to hold many more. (Sadly, she is no more.) That line stays with me. My experience doesn’t disqualify me. It deepens me. It makes me more aware, more compassionate, more real.
 
-She mentioned in her book that she** stopped chasing the idea of being “completely cured.” She consciously removed that phrase from her vocabulary. Depression, for her, isn’t a flu of the mind that simply passes. It’s closer to a chronic condition that requires management. That honesty felt grounding. Not hopeless… just realistic. **And in being that raw and real, it makes me acknowledge my mental health and to be realistic too. To work on myself. And in doing so, to show up for others with more empathy and compassion.
+She mentioned in her book that she **stopped chasing the idea of being “completely cured.” She consciously removed that phrase from her vocabulary. Depression, for her, isn’t a flu of the mind that simply passes. It’s closer to a chronic condition that requires management. That honesty felt grounding. Not hopeless… just realistic. **And in being that raw and real, it makes me acknowledge my mental health and to be realistic too. To work on myself. And in doing so, to show up for others with more empathy and compassion.
 
 And considering today is also Self-Injury Awareness Day, maybe this is the right moment to say what Sehee mentioned so gently… let’s talk about it without judgement. Let’s seek help. You are not alone. It is nothing to be ashamed of.
 
