@@ -6,8 +6,9 @@ description: |
   Through my lived experience with depression and fibromyalgia, this reflection weaves together insights from I Want to Die but I Want to Eat Tteokbokki by Baek Sehee and Dignity in Care by Dr Harvey Max Chochinov, exploring why acknowledgement, not just treatment, truly heals and how being cared for is shaping me into a more humane public and mental health advocate.
 image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image 2026-03-01 at 18.56.19.jpeg'
 tags:
+  - Mental Health
   - Personal Development
-  - Happiness
+  - Sel-Help
   - Self-Improvement
 categories:
   - Personal
@@ -43,7 +44,6 @@ So why should I feel ashamed about navigating my mental health while working in 
 
 ## Managing, Not Magically Fixing
 
-
 Like Sehee wrote, she has held the hands of many people already and was ready to hold many more. (Sadly, she is no more.) That line stays with me. My experience doesn’t disqualify me. It deepens me. It makes me more aware, more compassionate, more real.
 
 She mentioned in her book that she stops chasing the idea of being “completely cured.” She consciously removed that phrase from her vocabulary. Depression, for her, isn’t a flu of the mind that simply passes. It’s closer to a chronic condition that requires management. That honesty felt grounding. Not hopeless… just realistic. And in being that raw and real, it makes me acknowledge my mental health and to be realistic too. To work on myself. And in doing so, to show up for others with more empathy and compassion.
@@ -65,7 +65,6 @@ And then he introduces something powerful: the Golden Rule (“treat others as y
 He shares a haunting anecdote about a physician dismissing paperwork needed for an anticipated home death, telling a nurse the family could “sit tight” with the body until morning. Technically, perhaps not an emergency. But relationally? Devastating. A failure not of medicine, but of imagination.
 
 There is also that sharp distinction he makes.. healthcare versus “healthcaring.” Evidence-based skill, efficiency and knowledge matter. But “compassion is what separates healthcare from healthcaring.” Healthcaring is not just what we do to patients. It is how we are with them.
-
 
 ![](</BOOK/WhatsApp Image 2026-03-01 at 19.13.16.jpeg>)
 
@@ -115,7 +114,6 @@ Not diagnoses. Not performance. Just being seen.
 
 ## Learning to Care by Being Cared For
 
-
 And maybe that’s the real thread running through all of this… whether it’s mental health, chronic pain, or healthcare systems.
 
 We’re all just trying to be honest about what hurts… and hoping someone meets us there with a little less judgement and a little more compassion.
@@ -123,4 +121,3 @@ We’re all just trying to be honest about what hurts… and hoping someone meet
 As I continue to pursue my MPH this July, I’m excited to grow into a stronger, more informed, and more humane version of myself  not just academically, but as a public and mental health advocate who never forgets the person behind the pain.
 
 ![](</WhatsApp Image 2026-03-01 at 18.53.05.jpeg>)
-
