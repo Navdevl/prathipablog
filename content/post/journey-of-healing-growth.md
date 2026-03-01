@@ -20,11 +20,11 @@ categories:
 
 So I’m back with a book review. Or maybe three. But honestly, this feels more like a reflection than a review.
 
-I began with I Want to Die but I Want to Eat Tteokbokki and its Part II by Baek Sehee. I was already feeling low when I picked it up, and my physical health wasn’t cooperating either.
+Let's with I Want to Die but I Want to Eat Tteokbokki and its Part II by Baek Sehee. I was already feeling low when I picked it up, and my physical health wasn’t cooperating either.
 
-The book itself is hard to categorise, and I think that’s why it works. It’s not a memoir in the dramatic sense. Not self-help. Not a psychology textbook. It’s basically therapy sessions, recorded conversations between Sehee and her psychiatrist. The title…Wanting to die, but still wanting to eat. Despair and appetite coexisting. Hopelessness and craving sitting next to each other. That contradiction felt very human to me.
+The book itself is hard to categorise, and I think that’s why it works. It’s not a memoir in the dramatic sense. Not self-help. Not a psychology textbook. It’s basically therapy sessions, recorded conversations between Sehee and her psychiatrist. The title…Wanting to die, but still wanting to eat.** Despair & appetite coexisting. Hopelessness and craving sitting next to each other. That contradiction felt very human to me.**
 
-Sehee wrote about functioning depression, the kind where nothing externally collapses, but internally everything feels heavy. You go to work. You reply to messages. You say “I’m fine.” That part hit me hard. I’ve spoken openly about anxiety for years, but I had never actually used the word depression. Not publicly. Not even openly in therapy. I would say I feel low. I feel empty. I feel off. But I avoided that word.
+Sehee wrote about **functioning depression, the kind where nothing externally collapses, but internally everything feels heavy. You go to work. You reply to messages. You say “I’m fine.” That part hit me hard. **I’ve spoken openly about anxiety for years, but I had never actually used the word depression. Not publicly. Not even openly in therapy. I would say I feel low. I feel empty. I feel off. But I avoided that word.
 
 Lately, I’ve been feeling very low. And at the same time, my physical health has been acting up too. It honestly feels like my mind and body decided to team up. Through all of this, my husband has been my constant, patient and supportive.
 
@@ -34,9 +34,9 @@ For the first time, at my absolute lowest, I said it out loud: “I think I’m 
 
 ## Can an Advocate Admit She’s Not Okay?
 
-What feels strange is this… I advocate for mental health publicly. I write about emotional wellbeing. And yet I hesitated to label my own state honestly. Even when I was feeling worse, I kept pushing myself. At work, when someone asked how I was, the automatic reply came… “badiya.” Day after day. Even when I secretly wished someone would just say, “Take a break.”
+What feels strange is this… I advocate for mental health publicly. I write about emotional wellbeing. And yet I hesitated to label my own state honestly. Even when I was feeling worse, I kept pushing myself. At work, when someone asked how I was, the automatic reply came… “badiya (excellent).” Day after day. Even when I secretly wished someone would just say, “Take a break.”
 
-Sometimes it feels like “fake it till you make it”… or maybe more honestly, “fake it till you break it.”
+**Sometimes it feels like “fake it till you make it”… or maybe more honestly, “fake it till you break it.”**
 
 Sometimes I worry, what if being this raw becomes a problem for me? I work in public health. I advocate for mental health. What if people stop taking me seriously? What if they think I’m unstable?
 
@@ -48,7 +48,7 @@ So why should I feel ashamed about navigating my mental health while working in 
 
 Like Sehee wrote, she has held the hands of many people already and was ready to hold many more. (Sadly, she is no more.) That line stays with me. My experience doesn’t disqualify me. It deepens me. It makes me more aware, more compassionate, more real.
 
-She mentioned in her book that she stops chasing the idea of being “completely cured.” She consciously removed that phrase from her vocabulary. Depression, for her, isn’t a flu of the mind that simply passes. It’s closer to a chronic condition that requires management. That honesty felt grounding. Not hopeless… just realistic. And in being that raw and real, it makes me acknowledge my mental health and to be realistic too. To work on myself. And in doing so, to show up for others with more empathy and compassion.
+She mentioned in her book that she** stopped chasing the idea of being “completely cured.” She consciously removed that phrase from her vocabulary. Depression, for her, isn’t a flu of the mind that simply passes. It’s closer to a chronic condition that requires management. That honesty felt grounding. Not hopeless… just realistic. **And in being that raw and real, it makes me acknowledge my mental health and to be realistic too. To work on myself. And in doing so, to show up for others with more empathy and compassion.
 
 And considering today is also Self-Injury Awareness Day, maybe this is the right moment to say what Sehee mentioned so gently… let’s talk about it without judgement. Let’s seek help. You are not alone. It is nothing to be ashamed of.
 
@@ -58,15 +58,15 @@ And considering today is also Self-Injury Awareness Day, maybe this is the right
 
 Around the same time, I was reading Dignity in Care by Dr Harvey Max Chochinov. And that book shifted something in a very different way.
 
-Chochinov argues that dignity is not about politeness. It’s about inherent worth. And more importantly, it’s relational. People feel dignified based on how they perceive themselves being seen. His framework… the ABCDs of dignity-conserving care makes this practical: Attitude. Behaviour. Compassion. Dialogue.
+Dr Chochinov argues that **dignity is not about politeness. It’s about inherent worth.** And more importantly, it’s relational. People feel dignified based on how they perceive themselves being seen. His framework… the ABCDs of dignity-conserving care makes this practical: Attitude. Behaviour. Compassion. Dialogue.
 
 It’s not complicated medicine. It’s human medicine. Sitting at eye level. Asking permission. Listening fully. Seeing the person, not just the diagnosis.
 
-And then he introduces something powerful: the Golden Rule (“treat others as you would want to be treated”) to what he calls the Platinum Rule, asking the patient directly how they want to be treated . That subtle shift moves care from assumption to respect. It requires clinicians to step outside their own values and ask.
+And then he introduces something powerful: **the Golden Rule (“treat others as you would want to be treated”) to what he calls the Platinum Rule, asking the patient directly how they want to be treated . That subtle shift moves care from assumption to respect. It requires clinicians to step outside their own values and ask.**
 
 He shares a haunting anecdote about a physician dismissing paperwork needed for an anticipated home death, telling a nurse the family could “sit tight” with the body until morning. Technically, perhaps not an emergency. But relationally? Devastating. A failure not of medicine, but of imagination.
 
-There is also that sharp distinction he makes.. healthcare versus “healthcaring.” Evidence-based skill, efficiency and knowledge matter. But “compassion is what separates healthcare from healthcaring.” Healthcaring is not just what we do to patients. It is how we are with them.
+There is also that sharp distinction he makes.. **healthcare versus “healthcaring.” Evidence-based skill, efficiency and knowledge matter. But “compassion is what separates healthcare from healthcaring.” Healthcaring is not just what we do to patients. It is how we are with them.**
 
 ![](</BOOK/WhatsApp Image 2026-03-01 at 19.13.16.jpeg>)
 
@@ -94,7 +94,7 @@ Then I spoke about my appetite. How I still can’t eat lunch properly. How if I
 
 And maybe this is also why, recently, I started an Instagram page called[ @ayooitsfibro](https://www.instagram.com/ayooitsfibro?igsh=a2xiZXJiN2U3cGx1), partly sarcastic, partly survival. A space to acknowledge what I’m feeling in real time. To talk about chronic pain without sugarcoating it. To share research-based evidence so people living with fibromyalgia and other chronic conditions don’t feel like it’s “all in their head.” It’s my way of turning lived experience into something that might make someone else feel less alone. If you’d like, you can take a look.
 
-And here again I witnessed what Dr Chochinov was saying. Technical competence matters. Medication matters. But what preserves dignity is how you are made to feel in that room… whether you’re treated as a case or as a person.
+And here again I witnessed what Dr Chochinov was saying. **Technical competence matters. Medication matters. But what preserves dignity is how you are made to feel in that room… whether you’re treated as a case or as a person.**
 
 ## Just Being Seen
 
@@ -106,11 +106,11 @@ Because ultimately, this book is not accusing healthcare professionals. It is in
 
 Between Sehee and Chochinov, I realised something simple.
 
-Internally, we struggle to name our pain. Externally, we hope someone will recognise it without making us defend it.
+**Internally, we struggle to name our pain. Externally, we hope someone will recognise it without making us defend it.**
 
-We don’t just want treatment. We want acknowledgement.
+**We don’t just want treatment. We want acknowledgement.**
 
-Not diagnoses. Not performance. Just being seen.
+**Not diagnoses. Not performance. Just being seen.**
 
 ![](</BOOK/WhatsApp Image 2026-03-01 at 19.13.16 (1).jpeg>)
 
@@ -118,7 +118,7 @@ Not diagnoses. Not performance. Just being seen.
 
 And maybe that’s the real thread running through all of this… whether it’s mental health, chronic pain, or healthcare systems.
 
-We’re all just trying to be honest about what hurts… and hoping someone meets us there with a little less judgement and a little more compassion.
+**We’re all just trying to be honest about what hurts… and hoping someone meets us there with a little less judgement and a little more compassion.**
 
 As I continue to pursue my MPH this July, I’m excited to grow into a stronger, more informed, and more humane version of myself  not just academically, but as a public and mental health advocate who never forgets the person behind the pain.
 
