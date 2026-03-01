@@ -4,7 +4,7 @@ author: Prathipa
 date: 2026-02-28T18:30:00.000Z
 description: |
   Through my lived experience with depression and fibromyalgia, this reflection weaves together insights from I Want to Die but I Want to Eat Tteokbokki by Baek Sehee and Dignity in Care by Dr Harvey Max Chochinov, exploring why acknowledgement, not just treatment, truly heals and how being cared for is shaping me into a more humane public and mental health advocate.
-image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image 2026-03-01 at 18.56.19.jpeg'
+image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image 2026-03-01 at 18.53.05.jpeg'
 tags:
   - Mental Health
   - Personal Development
@@ -120,4 +120,4 @@ We’re all just trying to be honest about what hurts… and hoping someone meet
 
 As I continue to pursue my MPH this July, I’m excited to grow into a stronger, more informed, and more humane version of myself  not just academically, but as a public and mental health advocate who never forgets the person behind the pain.
 
-![](</WhatsApp Image 2026-03-01 at 18.53.05.jpeg>)
+![](</WhatsApp Image 2026-03-01 at 18.56.19.jpeg>)
