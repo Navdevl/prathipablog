@@ -82,7 +82,7 @@ There was one continuous week without sleep because of pain. My husband insisted
 
 It wasn’t about the fan. It was about my mind and body being at their lowest, and me still pretending I was fine. I washed my face and worked through the rest of the day.
 
-## Rest. Sleep. That’s It.
+## Rest. Sleep. And Support. That’s It.
 
 But I realised I couldn’t continue like this. I couldn’t wait another month to see my Chennai doctor. I needed to get checked.
 
