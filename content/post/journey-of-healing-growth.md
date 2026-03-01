@@ -12,6 +12,8 @@ tags:
   - Self-Improvement
 categories:
   - Personal
+  - Books
+  - Book Review
 ---
 
 ## When “Low” Finally Became “Depressed”
