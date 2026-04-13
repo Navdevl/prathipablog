@@ -64,6 +64,8 @@ That’s when I started asking…what brings me joy?
 
 For me, learning, growing, upgrading myself… that always did. And maybe that’s why stepping away from work to pursue my MPH felt like the right choice. It wasn’t easy…but it felt honest.
 
+![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 22.15.38.jpeg>)![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 22.15.41.jpeg>)![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 22.15.41 (1).jpeg>)
+
 # Maybe Anxiety Doesn’t Go Away...And That's OK
 
 Another thing the book made me sit with is this idea that anxiety may never completely go away. And that’s uncomfortable. Because I think I’ve spent a lot of time trying to “fix” myself, to be less anxious, more calm, more like the so-called “non-anxious” people. Especially when people casually say things like “don’t overthink” or “you’re always anxious.”
