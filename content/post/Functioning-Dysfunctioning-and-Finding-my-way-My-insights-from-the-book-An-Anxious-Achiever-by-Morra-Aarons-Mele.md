@@ -96,9 +96,13 @@ And I think that comes from working on myself. It’s not easy. Some days are st
 
 Today, I visited the new Advanced Centre of Hemato-Oncology and Transplantation at ICH. When I used to work there, it was just an idea…something I heard about and used to imagine. But seeing it now… it felt surreal.
 
+![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.24.jpeg>)![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.28.jpeg>)
+
 To have such a facility in a government hospital…the impact it can have, the number of lives it can change despite their socio-economic status…it’s incredible.
 
 And as I walked through those corridors, even with my mind racing ahead (as it always does), I also felt something else…joy. A sense of purpose. And surprisingly, a small clarity about what I might want to focus my MPH research on (which is ironic, because that question usually gives me anxiety).
+
+![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.30.jpeg>)![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.29.jpeg>)![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.27.jpeg>)
 
 So yes, I spent the last month worrying about how I would survive being jobless for three months. But now… it feels different. It feels manageable. It feels okay. And maybe that’s enough for now.
 
