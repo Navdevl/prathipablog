@@ -4,7 +4,7 @@ author: Prathipa
 date: 2026-04-12T18:30:00.000Z
 description: |
   A personal reflection on reading 'The Anxious Achiever' and recognising patterns of anxiety, overfunctioning and self-doubt in my own life. This piece blends insights from the book with my journey through burnout, transition and rediscovering purpose...learning that maybe the goal isn’t to eliminate anxiety, but to understand it and grow with it.
-image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.24.jpeg'
+image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.28.jpeg'
 tags:
   - Mental Health
   - Personal Development
