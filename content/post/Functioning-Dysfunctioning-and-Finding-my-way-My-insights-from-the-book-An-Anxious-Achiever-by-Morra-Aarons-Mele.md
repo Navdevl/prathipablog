@@ -3,8 +3,8 @@ title: 'Functioning, Dysfunctioning and Finding my way: My insights from the boo
 author: Prathipa
 date: 2026-04-12T18:30:00.000Z
 description: |
-  A personal reflection on reading 'The Anxious Achiever' and recognising patterns of anxiety, overfunctioning and self-doubt in my own life. This piece blends insights from the book with my journey through burnout, transition and rediscovering purpose...learning that maybe the goal isn’t to eliminate anxiety, but to understand it and grow with it. 
-image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image 2026-03-01 at 18.53.05.jpeg'
+  A personal reflection on reading 'The Anxious Achiever' and recognising patterns of anxiety, overfunctioning and self-doubt in my own life. This piece blends insights from the book with my journey through burnout, transition and rediscovering purpose...learning that maybe the goal isn’t to eliminate anxiety, but to understand it and grow with it.
+image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.24.jpeg'
 tags:
   - Mental Health
   - Personal Development
@@ -24,6 +24,8 @@ This book didn’t just resonate with me..it unsettled me a little. Not in a dra
 
 I’ve always lived with anxiety in a way that looks… functional. I show up, I do my work, I take responsibility, I stay ahead of things. And for the longest time, I’ve been calling that strength. It’s only in the last couple of years that I’ve started acknowledging it and trying to understand it. This book felt like fuel to that journey, making me pause again and ask: what if some of that isn’t strength? What if it’s just fear… working really efficiently?
 
+![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.42.32 (1).jpeg>)
+
 # The Cost of Overfunctioning
 
 There’s a part where it talks about overfunctioning and that was uncomfortable. The idea that you take on more, step in, fix things, almost act like others are an extension of you and somehow that’s what gets praised. I’ve always thought that’s what makes me dependable. But reading that it can lead to burnout, frustration and this quiet disappointment when others don’t meet expectations you never even expressed… that stayed with me. And honestly, I learnt this the hard way. Towards the end of my journey in my previous organisation…the one I just recently stepped away from, I started saying “no.” And that’s when I realised how burnt out I actually was. I hadn’t noticed it earlier, but suddenly everything felt frustrating. Everything felt heavy.
@@ -32,11 +34,15 @@ There’s a part where it talks about overfunctioning and that was uncomfortable
 
 Another thing that shifted for me was how the book talks about communication. I’ve always felt this pressure to show up well, speak well, not mess things up…almost like I need to perform. But the book simplifies it so much: you don’t need to perform, you just need to communicate. That felt like reassurance. I’ve been learning this the hard way through my own experiences, even during my palliative care training in Hyderabad. I didn’t realise how much energy I was spending trying to be a certain way instead of just being real.
 
+![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.42.33 (2).jpeg>)
+
 # The Quiet Voice of Impostor Syndrome
 
 And then, impostor syndrome. That constant feeling that maybe I don’t fully deserve to be where I am. Even during my transition from being a transplant coordinator to working in health communication, despite multiple promotions and roles, there’s always been that one voice saying, you’re doing okay, you should be proud… and another one quietly saying, maybe you don’t deserve this, anybody can do this.
 
 Reading that even highly successful people feel this and still don’t internalise their success was both comforting and frustrating. But maybe… it’s okay that it doesn’t just go away.
+
+![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.42.33.jpeg>)![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.42.33.jpeg>)
 
 # The Five Things Towards Joy
 
@@ -73,6 +79,8 @@ Because that’s what I’ve been doing all along. Since I was in 7th grade, eve
 This book didn’t fix anything for me. But it reassured me. It reminded me that so many leaders have navigated this. It made me pause and notice things I’ve been avoiding…my patterns, my need for control, my tendency to overfunction, the way I hold back, the thoughts that feel true but maybe aren’t.
 
 And maybe that’s where it starts. Not with fixing everything. Not with becoming someone else. Just… understanding yourself a little more honestly.
+
+![](</ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.42.37 (1).jpeg>)
 
 # A little bit about where I am right now…
 
