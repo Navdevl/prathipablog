@@ -83,4 +83,4 @@ So here I am, ten days into a new city, a few weeks away from starting my MPH, s
 
 New city. New chapter. Same me… just hopefully a little kinder, a little braver and maybe, if I ever get back into the pool, a slightly better swimmer, haha.
 
-Here’s to more updates from this little journey of mine, more books that make me think, more learning inside and outside the classroom and more stories from my time here in Manipal :)))
+Here’s to more updates from this little journey of mine, more books that make me think, more learning inside and outside the classroom and more stories from my time here in Manipal :))))
