@@ -1,10 +1,10 @@
 ---
 title: ...came here to review a book and somehow ended up reviewing my life
 author: Prathipa
-date: 2026-04-12T18:30:00.000Z
+date: 2026-06-14T18:30:00.000Z
 description: |
   This started as a simple update after disappearing for a couple of months. Somehow it turned into stories about swimming, fever, hairpin bends, my parents, moving to Manipal, a beautiful little book by Claire Keegan, and why I still think love is the religion that makes the most sense.
-image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/ANXIOUS ACHIEVER/WhatsApp Image 2026-04-13 at 21.37.28.jpeg'
+image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/Manipal/WhatsApp Image 2026-06-15 at 19.34.48.jpeg'
 tags:
   - New Chapter
   - Book Review
@@ -21,6 +21,8 @@ categories:
 \
 Well, it’s been ten days since I moved to Manipal, Udupi. God, I still can’t get over this place. I genuinely don’t think I will even after two years. After spending almost two years in Delhi, where I, someone who loves roaming around, was mostly made to stay indoors because of pollution and those long, brutal winters, this feels like a breath of fresh air. But I’ll always be grateful for Delhi. Getting to live and work in the capital city of India was something I’ll never take for granted.
 
+![](</Manipal/WhatsApp Image 2026-06-15 at 19.34.02.jpeg>)
+
 # A Pause Before the Next Chapter
 
 Then came Chennai. For the last two whole months being there with family and friends, and let me tell you, I took my break VERY seriously. Slept. Ate. Did my follow-up hospital visits. Drove around. Met people. Repeated. I had started a book long back and couldn’t even be bothered to finish it. Peak laziness.
@@ -35,15 +37,19 @@ And then, out of nowhere, I got a high-grade fever. No symptoms, no warning, str
 
 Then came the drive to Manipal. We stopped at my brother’s place in Bangalore and before we left from Chennai, my brother confidently told my dad, “Take the Kanyakumari route, it’s easier. Avoid the other route because it has three hairpin bends.”
 
-Anyway… somewhere along the journey from Bangalore to Manipal we discovered every hairpin bend in Karnataka lol. The first half was beautiful. Amazing roads, amazing weather, gorgeous views. I was sitting there thinking, Maybe I should finally learn to drive, or at least convince Godwin to become the designated road-trip driver forever.
+Anyway… somewhere along the journey from Bangalore to Manipal we discovered every hairpin bend in Karnataka lol. The first half was beautiful. Amazing roads, amazing weather, gorgeous views. I was sitting there thinking, maybe I should learn to drive car again, or at least convince Godwin to become the designated road-trip driver forever.
 
 Then it became dark. And suddenly it was bends, slopes, diversions, no lights, more bends and me internally talking to God every five minutes while externally acting very brave. To be fair, the roads weren’t bad at all. If anything, they were quite nice. It was just the darkness and the mountain roads that made it… exciting. (By exciting, I mean I was silently praying for survival haha.) But hats off to my dad. For someone who hasn’t driven such a long route in years, he absolutely nailed it.
+
+![](</Manipal/WhatsApp Image 2026-06-15 at 19.35.51.jpeg>)
 
 # The Quiet Shift That Comes with Growing Up
 
 After arriving here, we spent a couple of days with my parents, driving to beaches and just hanging out. Watching them enjoy the simplest things like little kids was honestly so wholesome.
 
 And it made me think… our parents probably weren’t perfect while raising us. They definitely annoyed us, we definitely annoyed them and somewhere in between everyone was just trying their best. As we grow older, we stop seeing them only as parents and start seeing them as people. And maybe now it’s our turn to take care of them…with a clean slate and a clean heart.
+
+![](</Manipal/WhatsApp Image 2026-06-15 at 19.29.33.jpeg>)![](</Manipal/WhatsApp Image 2026-06-15 at 19.32.37.jpeg>)
 
 # 'The Small Things Like These' .... That Stay With Us
 
@@ -65,11 +71,15 @@ I’ve said this almost every Christmas and I still believe it…love is the rel
 
 Maybe that’s why Small Things Like These stayed with me. Bill doesn’t change the whole world. He simply refuses to ignore someone who needs help. And maybe that’s how change usually happens…not through grand gestures, but through ordinary people deciding to do one small, good thing.
 
+![](</Manipal/WhatsApp Image 2026-06-15 at 19.39.02.jpeg>)
+
 # And So, We Begin Again
 
 I also haven’t been posting much lately because, like I said, I took my break very seriously. But the truth is, there are still days when the pain is excruciating…annoying, exhausting and sometimes completely disabling. In Chennai, my mum and Godwin took turns looking after me. Now that we’re in Manipal, poor Godwin’s back on duty again. I still haven’t received my college schedule, yet I am already anxious about how these next two years are going to go. Funny enough, I have two degrees and a postgraduate diploma, and I’ve never attended the convocation for any of them. But this time? I kind of want to. I want to do amazingly well, walk across that stage and hopefully land the career I’ve been dreaming about.
 
-So here I am, ten days into a new city, a few weeks away from starting my MPH, still unpacking boxes, still turning this house into the home I always wanted and still figuring things out…
+So here I am, ten days into a new city, a few weeks away from starting my MPH, still unpacking boxes, just re-starting to cook, still turning this house into the home I always wanted and still figuring things out…
+
+![](</Manipal/WhatsApp Image 2026-06-15 at 19.27.23.jpeg>)![](</Manipal/WhatsApp Image 2026-06-15 at 19.27.58.jpeg>)
 
 New city. New chapter. Same me… just hopefully a little kinder, a little braver and maybe, if I ever get back into the pool, a slightly better swimmer, haha.
 
