@@ -1,5 +1,5 @@
 ---
-title: '...came here to review a book and somehow ended up reviewing my life :))))'
+title: '...came here to review a book and somehow ended up reviewing my life :)))'
 author: Prathipa
 date: 2026-06-15T18:30:00.000Z
 description: |
