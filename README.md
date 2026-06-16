@@ -1,28 +1,31 @@
-![image](https://user-images.githubusercontent.com/5889006/190859441-141b5f81-8483-40d2-bd96-ebf85616a46d.png)
+# Writings of Prathipa K
 
-# Hugo Theme Stack
+Personal blog of Prathipa K — reflections on books, films, health, and life.
 
-<img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
+🌐 Live at **[writingsof.prathipa.in](https://writingsof.prathipa.in/)**
 
-Card-style Hugo theme designed for bloggers.
+## Stack
 
-## Quickstart
+- **[Hugo](https://gohugo.io/)** — static site generator
+- **[Hugo Theme Stack](https://github.com/CaiJimmy/hugo-theme-stack)** — card-style blog theme (this repo is based on it)
+- **Netlify** — hosting and deploys (auto-builds on push to `master`)
 
-Use this template: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+## Content
 
-## Demo
+Posts live as Markdown files in `content/post/`. Pages (about, archives, resume) are in `content/page/`. Site settings are in `config.yaml`.
 
-* Starter template demo: [demo.stack.jimmycai.com](https://demo.stack.jimmycai.com)
-* Dev build: [dev.stack.jimmycai.com](https://dev.stack.jimmycai.com)
+## Running locally
 
-## Documentation
+```bash
+hugo server
+```
 
-Visit [stack.jimmycai.com](https://stack.jimmycai.com)
+Then open http://localhost:1313/.
 
-## Copyright
+## Deploying
 
-**Licensed under the GNU General Public License v3.0**
+Push to `master`. Netlify builds and deploys automatically (see `netlify.toml`).
 
-Please do not remove the "*Theme Stack designed by Jimmy*" text and link.
+## Credits
 
-If you want to port this theme to another blogging platform, please let me know🙏.
+Built on [Hugo Theme Stack](https://github.com/CaiJimmy/hugo-theme-stack) by Jimmy Cai, licensed under GNU GPL v3.0. The "*Theme Stack designed by Jimmy*" attribution is retained in the site footer per the theme license.
