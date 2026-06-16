@@ -1,7 +1,7 @@
 ---
-title: ...came here to review a book and somehow ended up reviewing my life
+title: '...came here to review a book and somehow ended up reviewing my life :))'
 author: Prathipa
-date: '2026-06-14T18:30:00.000Z'
+date: 2026-06-14T18:30:00.000Z
 description: |
   This started as a simple update after disappearing for a couple of months. Somehow it turned into stories about swimming, fever, hairpin bends, my parents, moving to Manipal, a beautiful little book by Claire Keegan, and why I still think love is the religion that makes the most sense.
 image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/Manipal/WhatsApp Image 2026-06-15 at 19.34.48.jpeg'
@@ -15,7 +15,6 @@ categories:
   - Books
   - Book Review
 ---
-
 
 # Starting Over, Once Again...
 
