@@ -33,7 +33,7 @@ content:
         required: true
       - name: image
         label: Image
-        type: string
+        type: image
       - name: tags
         label: Tags
         type: string
