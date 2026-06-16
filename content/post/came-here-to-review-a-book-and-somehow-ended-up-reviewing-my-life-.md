@@ -21,7 +21,6 @@ categories:
 ---
 # Starting Over, Once Again...
 
-  
 Well, it’s been ten days since I moved to Manipal, Udupi. God, I still can’t get over this place. I genuinely don’t think I will even after two years. After spending almost two years in Delhi, where I, someone who loves roaming around, was mostly made to stay indoors because of pollution and those long, brutal winters, this feels like a breath of fresh air. But I’ll always be grateful for Delhi. Getting to live and work in the capital city of India was something I’ll never take for granted.
 
 ![](</Manipal/WhatsApp Image 2026-06-15 at 19.34.02.jpeg>)
