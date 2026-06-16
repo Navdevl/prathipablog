@@ -1,10 +1,14 @@
 ---
-title: '...came here to review a book and somehow ended up reviewing my life :)))'
+title: Came here to review a book and somehow ended up reviewing my life :)))
 author: Prathipa
-date: 2026-06-15T18:30:00.000Z
-description: |
-  This started as a simple update after disappearing for a couple of months. Somehow it turned into stories about swimming, fever, hairpin bends, my parents, moving to Manipal, a beautiful little book by Claire Keegan, and why I still think love is the religion that makes the most sense.
-image: 'https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/Manipal/WhatsApp Image 2026-06-15 at 19.34.48.jpeg'
+date: 2026-06-16T20:14
+description: >
+  This started as a simple update after disappearing for a couple of months.
+  Somehow it turned into stories about swimming, fever, hairpin bends, my
+  parents, moving to Manipal, a beautiful little book by Claire Keegan, and why
+  I still think love is the religion that makes the most sense.
+image: https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/Manipal/WhatsApp
+  Image 2026-06-15 at 19.34.48.jpeg
 tags:
   - New Chapter
   - Book Review
@@ -15,10 +19,9 @@ categories:
   - Books
   - Book Review
 ---
-
 # Starting Over, Once Again...
 
-\
+  
 Well, it’s been ten days since I moved to Manipal, Udupi. God, I still can’t get over this place. I genuinely don’t think I will even after two years. After spending almost two years in Delhi, where I, someone who loves roaming around, was mostly made to stay indoors because of pollution and those long, brutal winters, this feels like a breath of fresh air. But I’ll always be grateful for Delhi. Getting to live and work in the capital city of India was something I’ll never take for granted.
 
 ![](</Manipal/WhatsApp Image 2026-06-15 at 19.34.02.jpeg>)
