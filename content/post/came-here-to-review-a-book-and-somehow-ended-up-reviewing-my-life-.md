@@ -29,6 +29,14 @@ Well, it’s been ten days since I moved to Manipal, Udupi. God, I still can’t
 
 Then came Chennai. For the last two whole months being there with family and friends, and let me tell you, I took my break VERY seriously. Slept. Ate. Did my follow-up hospital visits. Drove around. Met people. Repeated. I had started a book long back and couldn’t even be bothered to finish it. Peak laziness.
 
+![](</Manipal/WhatsApp Image 2026-06-16 at 20.33.43.jpeg>)
+
+![](</Manipal/WhatsApp Image 2026-06-16 at 20.35.32.jpeg>)
+
+![](</Manipal/WhatsApp Image 2026-06-16 at 20.36.06.jpeg>)
+
+![](</Manipal/WhatsApp Image 2026-06-16 at 20.36.20.jpeg>)
+
 # Not Fast, But Forward
 
 The one productive thing I forced myself to do was learn swimming. Attempt number two after almost two years. This time I told myself I wouldn’t quit. The first four or five days? Absolute humiliation, lol. I was still trying to glide with a floater while my husband was happily doing freestyle and I’m pretty sure five-year-olds were making better progress than me. But surprisingly… I didn’t quit. Around day 12 (out of 15), I actually started doing freestyle in my own questionable style. I was so happy because my goal wasn’t to become an Olympian…I just wanted to learn for better health.
