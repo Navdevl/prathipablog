@@ -1,26 +1,23 @@
 ---
-title: >-
-  A Journey of Love, Forgiveness, and Mentorship - Embracing life's lessons from
-  Mitch Albom's Book
+title: A Journey of Love, Forgiveness, and Mentorship - Embracing life's lessons
+  from Mitch Albom's Book
 author: Prathipa K
-date: 2024-12-11T18:30:00.000Z
+date: 2026-06-16T20:12
 description: >
   A Journey of Love, Forgiveness, and Mentorship - Embracing life's lessons from
   Mitch Albom's Book: Tuesdays with Morrie and Have a Little Faith
-image: >-
-  https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp Image
-  2024-12-12 at 20.37.15.jpeg
+image: https://assets.tina.io/e17a439e-b949-4da1-843f-d8220611db0b/WhatsApp
+  Image 2024-12-12 at 20.37.15.jpeg
 tags:
   - Relationship
   - Family
   - Life
   - Mentorship
-  - 'Personal Development '
+  - "Personal Development "
 categories:
-  - 'Personal Development '
+  - "Personal Development "
   - Book Review
 ---
-
 # The Challenge of Starting Over
 
 Moving to a New City and Finding Comfort in Unexpected Places
