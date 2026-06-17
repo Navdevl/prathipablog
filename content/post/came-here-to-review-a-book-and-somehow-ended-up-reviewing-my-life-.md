@@ -45,7 +45,7 @@ And then, out of nowhere, I got a high-grade fever. No symptoms, no warning, str
 
 # The Journey To Manipal
 
-Then came the drive to Manipal. We stopped at my brother’s place in Bangalore and before we left from Chennai, my brother confidently told my dad, “Take the Kanyakumari route, it’s easier. Avoid the other route because it has three hairpin bends.”
+Then came the drive to Manipal. We stopped at my brother’s place in Bangalore and before we left from Chennai, my brother confidently told my dad, “Take the Krishnagiri route, it’s easier. Avoid the other route because it has three hairpin bends.”
 
 Anyway… somewhere along the journey from Bangalore to Manipal we discovered every hairpin bend in Karnataka lol. The first half was beautiful. Amazing roads, amazing weather, gorgeous views. I was sitting there thinking, maybe I should learn to drive car again, or at least convince Godwin to become the designated road-trip driver forever.
 
